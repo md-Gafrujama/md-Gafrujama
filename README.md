@@ -152,8 +152,6 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/exp
 ---
 
 
----
-
 ## 📈 Profile Views
 
 ![Profile Views](https://komarev.com/ghpvc/?username=md-Gafrujama&style=for-the-badge)
@@ -172,13 +170,6 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/exp
 
 - **Bachelor's Degree in Computer Science**  
   [University Name] - [Year]
-
----
-
-## 📝 Blog Posts
-
-- [How to Build Scalable Web Applications with MERN Stack](https://yourblog.com/build-scalable-web-applications)
-- [Best Practices for Managing State in React](https://yourblog.com/react-state-management)
 
 ---
 
