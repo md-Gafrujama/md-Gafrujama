@@ -32,9 +32,9 @@ DevOps
  <br/>
 📊 GitHub Stats
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=md-Gafrujama&show_icons=true&count_private=true&hide_border=true&theme=radical" alt="GitHub Stats" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-Gafrujama&layout=compact&hide_border=true&theme=radical" alt="Top Languages" /> </div> <br/>
-📝 Recent Blog Posts
-<!-- BLOG-POST-LIST:START --> <!-- BLOG-POST-LIST:END --> <br/> <div align="center"> <img src="https://komarev.com/ghpvc/?username=md-Gafrujama&style=flat-square" alt="Profile Views" /> </div> <br/>
-<div align="center"> Generated using <a href="https://profilinator.rishav.dev/" target="_blank">GitHub Profilinator</a> </div>
+alt="Profile Views" /> </div> <br/>
+
 <br/>
+
 🔗 Connect with Me
 <div align="center"> <a href="https://github.com/md-Gafrujama" target="_blank"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /> </a> <a href="https://linkedin.com/in/md-gafrujama-ansari-a8b401287/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a> <a href="mailto:your-email@example.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /> </a> </div>
