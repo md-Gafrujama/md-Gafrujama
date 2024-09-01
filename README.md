@@ -55,7 +55,8 @@
 ### Backend
 <div align="center">
   <a href="https://nodejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>
-  <a href="https://expressjs.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" height="50" /></a>
+  <a href="https://expressjs.com/" target="_blank"><img
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" height="50" /></a>
   <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>
   <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>
   <a href="https://redis.io/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="Redis" height="50" /></a>
@@ -82,42 +83,78 @@
   <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx" />
   <img src="https://img.shields.io/badge/Redis-D82C20?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
-  <img src="https://img.shields.io/badge/Terraform-7A42F4?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL" />
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
 </div>
 
 ---
 
-## 📚 Projects & Contributions
 
-### 1. [PhoneStar](https://github.com/yourusername/phonestar)
-- **Role:** Contributor
-- **Description:** Improved communication functionalities for open-source phone management.
 
-### 2. [Teaching Website](https://github.com/yourusername/teaching-website)
-- **Role:** Developer
-- **Description:** Developed a comprehensive teaching website using the MERN stack.
+## 💼 Experience
 
-### 3. [FullStack Job Portal](https://github.com/yourusername/fullstack-job-portal)
-- **Role:** Developer
-- **Description:** Built a job portal application using the MERN stack, incorporating JWT for authentication.
+### Frontend Developer Intern
+**Cyberlative IT Solutions**  
+*September 2023 - December 2023*  
+- Worked on user-friendly and visually engaging website development using HTML, CSS, JavaScript, and React.
+- Developed the company's portfolio website and UI for various applications.
 
-### 4. [Employee Management System](https://github.com/yourusername/employee-management-system)
-- **Role:** Creator
-- **Description:** Developed an employee management system with CRUD functionalities using React.
+### MERN Stack Developer Intern
+**Campous Credentials**  
+*Feb 2024-Agust 2024*  
+- Created a job portal with login and sign-up functionality using JSON Web Tokens (JWT) and the MERN stack.
+- Contributed to the open-source library PhoneStar and optimized existing codes.
 
-### 5. [Scientific Calculator](https://github.com/yourusername/scientific-calculator)
-- **Role:** Developer
-- **Description:** Created a scientific calculator with advanced features and responsive design.
-
-### 6. [Portfolio Website](https://github.com/yourusername/portfolio-website)
-- **Role:** Developer
-- **Description:** Designed a personal portfolio website to showcase projects and skills.
+### Full-Stack Developer
+**Pet Project**  
+*Date*  
+- Developed an Employee Management System with CRUD operations using React.
 
 ---
 
-## 📫 How to Reach Me
+## 📊 GitHub Stats
 
-- **Email:** [your.email@example.com](mailto:your.email@example.com)
-- **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-- **GitHub:** [github.com/yourusername](https://github.com/yourusername)
-- **Twitter:** [twitter.com/yourusername](https://twitter.com/yourusername)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=md-Gafrujama&show_icons=true&count_private=true&hide_border=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-Gafrujama&layout=compact&hide_border=true&theme=radical" alt="Top Languages" />
+</div>
+
+---
+
+
+## 📈 Profile Views
+
+![Profile Views](https://komarev.com/ghpvc/?username=md-Gafrujama&style=for-the-badge)
+
+---
+
+## 🏆 Achievements
+
+- **Top Contributor** at [Open Source Project] for contributions in [Year].
+- **Certified MERN Stack Developer** from [Certification Body].
+- **Hackathon Winner** at [Hackathon Name] for building [Project Name].
+
+---
+
+## 📚 Education
+
+- **Bachelor's Degree in Computer Science**  
+  [University Name] - [Year]
+
+---
+
+## 👀 Looking for
+
+- Collaborative programming opportunities.
+- Exciting projects in the MERN stack.
+- Roles involving innovative application design and development.
+
+- ## 🔗 Connect with Me
+
+<div align="center">
+  <a href="https://github.com/md-Gafrujama" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://linkedin.com/in/md-gafrujama-ansari-a8b401287/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:mdgafrujama@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</div>
+
