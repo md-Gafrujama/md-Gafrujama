@@ -15,8 +15,7 @@ I prefer tabs over spaces.
 <table> <tr> <td valign="top" width="33%">
 Frontend
 <div align="center"> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" height="50" /> </a> <a href="https://getbootstrap.com/docs/5.0/getting-started/introduction/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original-wordmark.svg" alt="Bootstrap" height="50" /> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" height="50" /> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" height="50" /> </a> <a href="https://www.javascript.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" height="50" /> </a> <a href="https://mui.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" alt="Material UI" height="50" /> </a> <a href="https://github.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="Git" height="50" /> </a> </div>
-css
-Copy code
+
 </td>
 <td valign="top" width="33%">
 Backend
@@ -27,15 +26,15 @@ Copy code
 <td valign="top" width="33%">
 DevOps
 <div align="center"> <a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="Git" height="50" /> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" height="50" /> </a> <a href="https://kubernetes.io/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="Kubernetes" height="50" /> </a> <a href="https://www.jenkins.io/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original-wordmark.svg" alt="Jenkins" height="50" /> </a> <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" height="50" /> </a> </div>
-bash
-Copy code
+
 </td>
 </tr> </table> <br/>
-🔗 Connect with Me
-<div align="center"> <a href="https://github.com/md-Gafrujama" target="_blank"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /> </a> <a href="https://linkedin.com/in/md-gafrujama-ansari-a8b401287/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a> <a href="mailto:your-email@example.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /> </a> </div> <br/>
+ <br/>
 📊 GitHub Stats
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=md-Gafrujama&show_icons=true&count_private=true&hide_border=true&theme=radical" alt="GitHub Stats" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-Gafrujama&layout=compact&hide_border=true&theme=radical" alt="Top Languages" /> </div> <br/>
 📝 Recent Blog Posts
 <!-- BLOG-POST-LIST:START --> <!-- BLOG-POST-LIST:END --> <br/> <div align="center"> <img src="https://komarev.com/ghpvc/?username=md-Gafrujama&style=flat-square" alt="Profile Views" /> </div> <br/>
 <div align="center"> Generated using <a href="https://profilinator.rishav.dev/" target="_blank">GitHub Profilinator</a> </div>
-Notes:
+<br/>
+🔗 Connect with Me
+<div align="center"> <a href="https://github.com/md-Gafrujama" target="_blank"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /> </a> <a href="https://linkedin.com/in/md-gafrujama-ansari-a8b401287/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a> <a href="mailto:your-email@example.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /> </a> </div>
