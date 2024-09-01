@@ -120,7 +120,6 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/exp
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-Gafrujama&layout=compact&hide_border=true&theme=radical" alt="Top Languages" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=md-Gafrujama&hide_border=true&theme=radical" alt="Streak Stats" />
   <br />
-  <img src="https://img.shields.io/github/stars/md-Gafrujama?style=social" alt="GitHub Stars" />
 </div>
 
 
