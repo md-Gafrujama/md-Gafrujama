@@ -116,10 +116,19 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/exp
 ## 📊 GitHub Stats
 
 <div align="center">
+  <!-- GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=md-Gafrujama&show_icons=true&count_private=true&hide_border=true&theme=radical" alt="GitHub Stats" />
+  
+  <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-Gafrujama&layout=compact&hide_border=true&theme=radical" alt="Top Languages" />
+  
+  <!-- Streak Stats -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=md-Gafrujama&hide_border=true&theme=radical" alt="Streak Stats" />
+  
+  <!-- Example of adding a badge from shields.io -->
   <br />
+  <img src="https://img.shields.io/github/followers/md-Gafrujama?label=Follow&style=social" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/md-Gafrujama?label=Stars&style=social" alt="GitHub Stars" />
 </div>
 
 
@@ -161,5 +170,4 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/exp
   <a href="mailto:mdgafrujama@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </div>
 
-itHub Workflow Status](https://img.shields.io/github/workflow/status/{owner}/{repo}/CI?label=build)
 
