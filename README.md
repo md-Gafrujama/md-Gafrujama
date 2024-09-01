@@ -54,6 +54,7 @@
   <a href="https://www.javascript.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" height="50" style="margin
 
+</div>
 
 ### Backend
 <div align="center">
