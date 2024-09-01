@@ -97,9 +97,6 @@ lds.io/badge/Redis-D82C20?style=for-the-badge&logo=redis&logoColor=white" alt="R
   <img src="https://img.shields.io/badge/Matlab-0076A8?style=for-the-badge&logo=matlab&logoColor=white" alt="Matlab" />
 </div>
 
-  
-</div>
-
 ---
 
 
