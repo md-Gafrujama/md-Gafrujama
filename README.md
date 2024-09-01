@@ -101,8 +101,8 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/exp
 - Developed the company's portfolio website and UI for various applications.
 
 ### MERN Stack Developer Intern
-**[Company Name]**  
-*Date*  
+**Campous Credentials**  
+*Feb 2024-Agust 2024*  
 - Created a job portal with login and sign-up functionality using JSON Web Tokens (JWT) and the MERN stack.
 - Contributed to the open-source library PhoneStar and optimized existing codes.
 
@@ -155,6 +155,6 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/exp
 <div align="center">
   <a href="https://github.com/md-Gafrujama" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://linkedin.com/in/md-gafrujama-ansari-a8b401287/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:mdgafrujama@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="mailto:mdgafrujama@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </div>
 
