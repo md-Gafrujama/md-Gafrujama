@@ -135,10 +135,6 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/exp
 - Created a job portal with login and sign-up functionality using JSON Web Tokens (JWT) and the MERN stack.
 - Contributed to the open-source library PhoneStar and optimized existing codes.
 
-### Full-Stack Developer
-**Pet Project**  
-*Date*  
-- Developed an Employee Management System with CRUD operations using React.
 
 ---
 
@@ -151,27 +147,14 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/exp
 
 ---
 
+
 ## 🏆 Achievements
 
 - **Top Contributor** at [Open Source Project] for contributions in [Year].
 - **Certified MERN Stack Developer** from [Certification Body].
 - **Hackathon Winner** at [Hackathon Name] for building [Project Name].
 
----
 
-## 📚 Education
-
-- **Bachelor's Degree in Computer Science**  
-  [University Name] - [Year]
-
----
-
-## 📝 Blog Posts
-
-- [How to Build Scalable Web Applications with MERN Stack](https://yourblog.com/build-scalable-web-applications)
-- [Best Practices for Managing State in React](https://yourblog.com/react-state-management)
-
----
 
 ## 👀 Looking for
 
