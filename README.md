@@ -39,7 +39,3 @@ Copy code
 <!-- BLOG-POST-LIST:START --> <!-- BLOG-POST-LIST:END --> <br/> <div align="center"> <img src="https://komarev.com/ghpvc/?username=md-Gafrujama&style=flat-square" alt="Profile Views" /> </div> <br/>
 <div align="center"> Generated using <a href="https://profilinator.rishav.dev/" target="_blank">GitHub Profilinator</a> </div>
 Notes:
-Email Badge: Replace your-email@example.com with your actual email address.
-Blog Posts: To automatically list your recent blog posts, you can integrate with platforms like Dev.to or Medium using appropriate GitHub Actions or third-party services.
-Themes: The GitHub Stats section uses the radical theme. You can change it by modifying the theme parameter (e.g., theme=vue, theme=dracula, etc.).
-Additional Skills: Feel free to add more skills by following the existing pattern. Use Devicon for a wide range of technology icons.
