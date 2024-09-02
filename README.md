@@ -77,7 +77,6 @@
 ## Databases
 <div align="center"> 
   <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a> 
-  <a href="https://www.postgresql.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a> 
   <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a> 
   <a href="https://www.microsoft.com/en-us/sql-server/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="SQL Server" height="50" /></a> 
 </div>
@@ -160,9 +159,8 @@ ter; background-color: #f5f5f5; border-radius: 10px; padding: 20px; margin: 10px
 
 ## 📚 Education
 
-- **Bachelor's Degree in Computer Science**  
-  [University Name] - [Year]
-
+- **Bachelor's Degree in Electronics and Communication Engineering.**  
+  Batch: 2021-2025
 ---
 
 ## 👀 Looking for
