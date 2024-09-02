@@ -83,7 +83,7 @@
 
 
 ### Tools & Technologies
-ter; background-color: #f5f5f5; border-radius: 10px; padding: 20px; margin: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); text-decoration: none; color: #333;"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original-wordmark.svg" alt="Jenkins" height="60" style="margin-bottom: 10px;" /> <div style="font-size:
+
 <div align="center">
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code" style="margin: 10px;" />
   <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" alt="Visual Studio" style="margin: 10px;" />
