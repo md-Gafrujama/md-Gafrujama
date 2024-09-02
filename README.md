@@ -37,69 +37,73 @@
 
 # 🚀 My Skill Set
 
-This is a webpage showcasing my skills in various domains including Frontend, Backend, DevOps, Programming, and Databases. The webpage is built with HTML and CSS, featuring a clean and responsive design. Below are the details of each section.
+This webpage showcases my expertise across different domains including Frontend, Backend, DevOps, Programming, and Databases. It is built with HTML and CSS and features a clean and responsive design with distinct banners for each section.
 
-## Sections
+## Sections Overview
 
-### 1. Frontend
+### Frontend
 
-The Frontend section displays my expertise in the following technologies:
+The Frontend section includes the following technologies:
 
-- **HTML5**: The standard markup language for creating web pages.
-- **CSS3**: The style sheet language used for describing the presentation of the web pages.
-- **JavaScript**: The programming language that allows you to implement complex features on web pages.
-- **Bootstrap**: A popular framework for building responsive, mobile-first websites.
-- **Tailwind CSS**: A utility-first CSS framework for rapidly building custom designs.
-- **React.js**: A JavaScript library for building user interfaces.
-- **Material UI**: A popular React UI framework.
-- **SASS**: A preprocessor scripting language that is interpreted or compiled into CSS.
-- **Webpack**: A module bundler for JavaScript applications.
-- **Gatsby.js**: A React-based framework for building static websites.
-- **Next.js**: A React framework for server-side rendering.
+- **React.js**
+- **Bootstrap**
+- **CSS3**
+- **HTML5**
+- **JavaScript**
+- **Material UI**
+- **Tailwind CSS**
+- **SASS**
+- **Webpack**
+- **Gatsby.js**
+- **Next.js**
 
-### 2. Backend
+### Backend
 
-The Backend section highlights my skills in server-side development using:
+The Backend section covers:
 
-- **Node.js**: A JavaScript runtime built on Chrome's V8 JavaScript engine.
-- **Express.js**: A minimal and flexible Node.js web application framework.
-- **MongoDB**: A NoSQL database program that uses JSON-like documents.
-- **MySQL**: An open-source relational database management system.
-- **Redis**: An in-memory data structure store, used as a database, cache, and message broker.
-- **PostgreSQL**: An open-source relational database with an emphasis on extensibility and SQL compliance.
-- **Firebase**: A platform developed by Google for creating mobile and web applications.
+- **Node.js**
+- **Express.js**
+- **MongoDB**
+- **MySQL**
+- **Redis**
+- **PostgreSQL**
+- **Firebase**
 
-### 3. DevOps
+### DevOps
 
-This section covers my experience with tools used in continuous integration, delivery, and deployment:
+This section highlights:
 
-- **Docker**: A platform to develop, ship, and run applications inside containers.
-- **Kubernetes**: A system for automating deployment, scaling, and management of containerized applications.
-- **AWS (Amazon Web Services)**: A comprehensive cloud computing platform provided by Amazon.
-- **Jenkins**: An open-source automation server to build, deploy, and automate any project.
+- **Docker**
+- **Kubernetes**
+- **AWS**
+- **Jenkins**
 
-### 4. Programming
+### Programming
 
-Here are the programming languages I am proficient in:
+Programming languages include:
 
-- **Java**: A high-level, class-based, object-oriented programming language.
-- **C++**: A general-purpose programming language created as an extension of the C programming language.
-- **C**: A general-purpose procedural computer programming language.
-- **JavaScript**: A high-level, often just-in-time compiled language that conforms to the ECMAScript standard.
+- **Java**
+- **C++**
+- **C**
+- **JavaScript**
 
-### 5. Databases
+### Databases
 
-In this section, I have listed the databases I work with:
+The Databases section covers:
 
-- **MySQL**: A relational database management system.
-- **SQL**: A domain-specific language used in programming for managing relational databases.
-- **MongoDB**: A document-oriented NoSQL database used for high-volume data storage.
+- **MySQL**
+- **PostgreSQL**
+- **MongoDB**
+- **SQL Server**
 
-## How to Use
+## Installation
 
-1. **Clone the Repository**: 
-   ```bash
-   git clone https://github.com/yourusername/yourrepository.git
+To view the webpage locally, clone the repository and open `index.html` in your browser.
+
+```bash
+git clone https://github.com/yourusername/your-repo-name.git
+cd your-repo-name
+
 
 
 ### Tools & Technologies
