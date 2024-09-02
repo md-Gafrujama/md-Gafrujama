@@ -37,9 +37,6 @@
 # 🚀 My Skill Set
 
 ## Frontend
-<div class="banner frontend-banner"> 
-  <h2>Frontend</h2> 
-</div>
 <div align="center"> 
   <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" height="50" /></a> 
   <a href="https://getbootstrap.com/docs/5.0/getting-started/introduction/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original-wordmark.svg" alt="Bootstrap" height="50" /></a> 
@@ -55,9 +52,6 @@
 </div>
 
 ## Backend
-<div class="banner backend-banner"> 
-  <h2>Backend</h2> 
-</div>
 <div align="center"> 
   <a href="https://nodejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a> 
   <a href="https://expressjs.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" height="50" /></a> 
@@ -69,9 +63,6 @@
 </div>
 
 ## DevOps
-<div class="banner devops-banner"> 
-  <h2>DevOps</h2> 
-</div>
 <div align="center"> 
   <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" height="50" /></a> 
   <a href="https://kubernetes.io/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original-wordmark.svg" alt="Kubernetes" height="50" /></a> 
@@ -80,9 +71,6 @@
 </div>
 
 ## Programming
-<div class="banner programming-banner"> 
-  <h2>Programming</h2> 
-</div>
 <div align="center"> 
   <a href="https://www.oracle.com/java/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="Java" height="50" /></a> 
   <a href="https://isocpp.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" height="50" /></a> 
@@ -91,34 +79,12 @@
 </div>
 
 ## Databases
-<div class="banner databases-banner"> 
-  <h2>Databases</h2> 
-</div>
 <div align="center"> 
   <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a> 
   <a href="https://www.postgresql.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a> 
   <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a> 
   <a href="https://www.microsoft.com/en-us/sql-server/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="SQL Server" height="50" /></a> 
 </div>
-
-<!-- Banner Styles -->
-<style>
-  .banner { 
-    text-align: center; 
-    padding: 20px; 
-    margin: 20px 0; 
-    border-radius: 10px; 
-    color: white; 
-    font-size: 24px; 
-  } 
-  .frontend-banner { background-color: #61dafb; } /* React color */
-  .backend-banner { background-color: #f0db4f; } /* JavaScript color */
-  .devops-banner { background-color: #2496ed; } /* Docker color */
-  .programming-banner { background-color: #f34b7d; } /* GitHub color */
-  .databases-banner { background-color: #4db33d; } /* MongoDB color */
-  .banner h2 { margin: 0; padding: 0; font-size: 1.5em; }
-  div[align="center"] { margin: 20px 0; }
-</style>
 
 ### Tools & Technologies
 ter; background-color: #f5f5f5; border-radius: 10px; padding: 20px; margin: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); text-decoration: none; color: #333;"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original-wordmark.svg" alt="Jenkins" height="60" style="margin-bottom: 10px;" /> <div style="font-size:
