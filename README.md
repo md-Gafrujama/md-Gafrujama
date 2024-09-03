@@ -18,9 +18,9 @@
 
 ## 🌱 Currently Learning
 
-- Hyperledger
-- Kubernetes
-- Terraform
+- Data Structure and Algorithm
+- MERN stCK Devlopment
+- Final year Project .
 
 ## ❓ Ask Me About
 
