@@ -19,8 +19,8 @@
 ## 🌱 Currently Learning
 
 - Data Structure and Algorithm
-- MERN stCK Devlopment
-- Final year Project .
+- MERN Stack Devlopment
+- Final Year Project .
 
 ## ❓ Ask Me About
 
