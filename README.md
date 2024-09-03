@@ -125,8 +125,12 @@
 
 ### Full-Stack Developer
 **Pet Project**  
-*Date*  
+*Feb-Agust 2024*
+
 - Developed an Employee Management System with CRUD operations using React.
+  
+- The Job Portal project is a FullStack application built using the MERN stack, featuring user authentication with JWT, job listings, and application management 
+  functionalities.
 
 ---
 
