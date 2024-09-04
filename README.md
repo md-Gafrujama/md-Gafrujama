@@ -124,7 +124,7 @@
 - Contributed to the open-source library PhoneStar and optimized existing codes.
 
 ### Full-Stack Developer
-**Pet Project**  
+** Project**  
 *Feb-Agust 2024*
 
 - Developed an Employee Management System with CRUD operations using React.
