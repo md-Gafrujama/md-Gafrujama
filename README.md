@@ -155,9 +155,9 @@
 
 ## 🏆 Achievements
 
-- **Top Contributor** at [Open Source Project] for contributions in [Year].
-- **Certified MERN Stack Developer** from [Certification Body].
-- **Hackathon Winner** at [Hackathon Name] for building [Project Name].
+- **Top Contributor** at [Open Source Project] for contributions in 2024.
+- **Certified MERN Stack Developer** from PW Skills.
+- **.
 
 ---
 
