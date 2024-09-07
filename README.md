@@ -157,9 +157,7 @@
 
 - **Top Contributor** at [Open Source Project] for contributions in 2024.
 - **Certified MERN Stack Developer** from PW Skills.
-- * 
-I completed my 12th grade in 2021, along with the Super30 program, which provided intensive training in mathematics and science. I achieved a 98 percentile in JEE Mains, demonstrating strong analytical and problem-solving skills.*.
-
+- *I completed my 12th grade in 2021, along with the Super30 program, which provided intensive training in mathematics and science. I achieved a 98 percentile in JEE Mains, demonstrating strong analytical and problem-solving skills.*.
 ---
 
 ## 📚 Education
