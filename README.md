@@ -118,7 +118,7 @@
 - Developed the company's portfolio website and UI for various applications.
 
 ### MERN Stack Developer Intern
-**Campous Credentials**  
+**Campus Credentials**  
 *Feb 2024-Agust 2024*  
 - Created a job portal with login and sign-up functionality using JSON Web Tokens (JWT) and the MERN stack.
 - Contributed to the open-source library PhoneStar and optimized existing codes.
