@@ -126,7 +126,7 @@
 
 ### Full-Stack Developer
 ** Project**  
-*Feb-Agust 2024*
+*Feb 02-Agust 2024*
 
 - Developed an Employee Management System with CRUD operations using React.
   
