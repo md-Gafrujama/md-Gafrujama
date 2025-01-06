@@ -1,11 +1,10 @@
 <div align="center">
   <img src="https://rishavanand.github.io/static/images/greetings.gif" alt="Greetings" width="600" />
-
-  <h1>👨‍💻 Md Gafrujama Ansari</h1>
-  <h3>Crafting Digital Experiences with MERN Stack Magic ✨</h3>
-
-  ![Profile Views](https://komarev.com/ghpvc/?username=md-Gafrujama&style=for-the-badge)
 </div>
+
+
+### 👋 Hi, I'm Md Gafrujama Ansari
+## MERN Full-Stack Developer
 
 <div align="center">
   <img src="https://img.shields.io/badge/MERN-Stack-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="MERN Stack" />
@@ -18,110 +17,168 @@
 
 ---
 
-### 🎯 Quick Overview
+## 🌱 Currently Learning
 
+- Data Structure and Algorithm
+- MERN Stack Devlopment
+- Final Year Project .
 
-const gafrujama = {
-    role: "MERN Stack Developer",
-    education: "B.Tech in Electronics and Communication (2021-2025)",
-    currentlyWorking: ["Job Portal", "Employee Management System"],
-    passions: ["Web Development", "Problem Solving", "Open Source"],
-    skills: {
-        languages: ["JavaScript", "Java", "C++", "Python"],
-        frontend: ["React", "Next.js", "Gatsby", "HTML5/CSS3"],
-        backend: ["Node.js", "Express", "MongoDB", "MySQL"],
-        tools: ["Git", "Docker", "AWS", "Postman"],
-        practices: ["CI/CD", "Agile", "Test-Driven Development"]
-    },
-    funFact: "I can debug code faster than I can debug my life! 🎯"
-};
-```
+## ❓ Ask Me About
 
-### 🚀 What I'm Up To
+- Anything related to the MERN stack and associated technologies.
+- Innovative application design and development.
+- Collaborative programming and version control with Git.
 
-- 🔭 Currently working on: **Advanced MERN Stack Projects**
-- 🌱 Learning: **Data Structures, System Design & Cloud Architecture**
-- 👯 Looking to collaborate on: **Open Source & Innovative Web Projects**
-- 💬 Ask me about: **MERN Stack, Software Architecture, Problem Solving**
-- ⚡ Fun fact: **I turn coffee into code and bugs into features!**
+## ⚡ Fun Fact
 
-### 💼 Professional Journey
+- I prefer tabs over spaces.
+- I have a passion for solving complex problems with elegant code solutions.
 
-#### MERN Stack Developer Intern @ Campus Credentials
-*Feb 2024 - August 2024*
-<div align="center">
-  <img src="https://img.shields.io/badge/React-Frontend-61DAFB?style=flat-square&logo=react" />
-  <img src="https://img.shields.io/badge/Node-Backend-339933?style=flat-square&logo=node.js" />
-  <img src="https://img.shields.io/badge/MongoDB-Database-47A248?style=flat-square&logo=mongodb" />
+---
+# 🚀 My Skill Set
+
+## Frontend
+<div align="center"> 
+  <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" height="50" /></a> 
+  <a href="https://getbootstrap.com/docs/5.0/getting-started/introduction/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original-wordmark.svg" alt="Bootstrap" height="50" /></a> 
+  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" height="50" /></a> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" height="50" /></a> 
+  <a href="https://www.javascript.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" height="50" /></a> 
+  <a href="https://mui.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" alt="Material UI" height="50" /></a> 
+  <a href="https://sass-lang.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="SASS" height="50" /></a> 
+  <a href="https://webpack.js.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg" alt="Webpack" height="50" /></a> 
+  <a href="https://gatsbyjs.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gatsby/gatsby-original-wordmark.svg" alt="Gatsby" height="50" /></a> 
+  <a href="https://nextjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="Next.js" height="50" /></a> 
 </div>
 
-- 🏗️ Architected and implemented a full-featured job portal with JWT authentication
-- 🔄 Developed RESTful APIs with Node.js and Express
-- 🎯 Integrated real-time notifications using Socket.io
-- 📈 Improved application performance by 40% through code optimization
-- 🤝 Contributed to open-source library PhoneStar
-
-#### Frontend Developer Intern @ Cyberlative IT Solutions
-*September 2023 - December 2023*
-<div align="center">
-  <img src="https://img.shields.io/badge/React-UI-61DAFB?style=flat-square&logo=react" />
-  <img src="https://img.shields.io/badge/JavaScript-Logic-F7DF1E?style=flat-square&logo=javascript" />
-  <img src="https://img.shields.io/badge/CSS3-Styling-1572B6?style=flat-square&logo=css3" />
+## Backend
+<div align="center"> 
+  <a href="https://nodejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a> 
+  <a href="https://expressjs.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" height="50" /></a> 
+  <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a> 
+  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a> 
+  <a href="https://firebase.google.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain-wordmark.svg" alt="Firebase" height="50" /></a> 
 </div>
 
-- 🎨 Designed and developed responsive company portfolio
-- 🔧 Built reusable component library
-- 📱 Implemented mobile-first design principles
-- ⚡ Achieved 95+ Lighthouse performance score
-
-### 🛠️ Technical Arsenal
-
-#### Frontend Development
-<div align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" height="50"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="Next.js" height="50"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gatsby/gatsby-original-wordmark.svg" alt="Gatsby" height="50"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="SASS" height="50"/>
+## DevOps
+<div align="center"> 
+  <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" height="50" /></a> 
+  <a href="https://kubernetes.io/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original-wordmark.svg" alt="Kubernetes" height="50" /></a> 
+  <a href="https://aws.amazon.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a> 
 </div>
 
-#### Backend Development
-<div align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" height="50"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" height="50"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" height="50"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" height="50"/>
+## Programming
+<div align="center"> 
+  <a href="https://www.oracle.com/java/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="Java" height="50" /></a> 
+  <a href="https://isocpp.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" height="50" /></a> 
+  <a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" height="50" /></a> 
+  <a href="https://www.javascript.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" height="50" /></a> 
 </div>
 
-### 📊 GitHub Analytics
+## Databases
+<div align="center"> 
+  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a> 
+  <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a> 
+  <a href="https://www.microsoft.com/en-us/sql-server/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="SQL Server" height="50" /></a> 
+</div>
+
+
+### Tools & Technologies
+
+<div align="center">
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code" style="margin: 10px;" />
+  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" alt="Visual Studio" style="margin: 10px;" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" style="margin: 10px;" />
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL" style="margin: 10px;" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" style="margin: 10px;" />
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" style="margin: 10px;" />
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" style="margin: 10px;" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" style="margin: 10px;" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" style="margin: 10px;" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" style="margin: 10px;" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" style="margin: 10px;" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" style="margin: 10px;" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" style="margin: 10px;" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" style="margin: 10px;" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" style="margin: 10px;" />
+  <img src="https://img.shields.io/badge/C%2B%2B-F34B7F?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" style="margin: 10px;" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" style="margin: 10px;" />
+  <img src="https://img.shields.io/badge/Matlab-0076A8?style=for-the-badge&logo=matlab&logoColor=white" alt="Matlab" style="margin: 10px;" />
+</div>
+
+---
+
+
+
+## 💼 Experience
+
+### Frontend Developer Intern
+**Cyberlative IT Solutions**  
+*September 2023 - December 2023*  
+- Worked on user-friendly and visually engaging website development using HTML, CSS, JavaScript, and React.
+- Developed the company's portfolio website and UI for various applications.
+
+### MERN Stack Developer Intern
+**Campus Credentials**  
+*Feb 2024-Agust 2024*  
+- Created a job portal with login and sign-up functionality using JSON Web Tokens (JWT) and the MERN stack.
+- Contributed to the open-source library PhoneStar and optimized existing codes.
+
+### Full-Stack Developer
+** Project**  
+*Feb 02-Agust 2024*
+
+- Developed an Employee Management System with CRUD operations using React.
+  
+- The Job Portal project is a FullStack application built using the MERN stack, featuring user authentication with JWT, job listings, and application management 
+  functionalities.
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=md-Gafrujama&show_icons=true&count_private=true&hide_border=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=md-Gafrujama&hide_border=true&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-Gafrujama&layout=compact&hide_border=true&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=md-Gafrujama&hide_border=true&theme=radical" alt="Streak Stats" />
+  
+
 </div>
 
-### 🏆 Achievements & Education
 
 
-Education:
-  degree: "B.Tech in Electronics and Communication Engineering"
-  batch: "2021-2025"
-  highlights:
-    - "JEE Mains 98 percentile"
-    - "Super30 Program Graduate"
-    - "Department Merit List Holder"
 
-Certifications:
-  - "MERN Stack Development (PW Skills)"
-  - "AWS Cloud Practitioner"
-  - "Top Open Source Contributor 2024"
 
-Awards:
-  - "Best Innovative Project - College Tech Fest 2023"
-  - "1st Prize - National Level Hackathon 2023"
-  - "Outstanding Contributor - Open Source Projects"
-```
 
-### 📫 Let's Connect!
+---
+
+
+## 📈 Profile Views
+
+![Profile Views](https://komarev.com/ghpvc/?username=md-Gafrujama&style=for-the-badge)
+
+---
+
+## 🏆 Achievements
+
+- **Top Contributor** at Open Source Project for contributions in 2024.
+- **Certified MERN Stack Developer** from PW Skills.
+- *I completed my 12th grade in 2021, along with the Super30 program, which provided intensive training in mathematics and science. I achieved a 98 percentile in JEE Mains, demonstrating strong analytical and problem-solving skills.*.
+---
+
+## 📚 Education
+
+- **Bachelor's Degree in Electronics and Communication Engineering.**  
+  Batch: 2021-2025
+---
+
+## 👀 Looking for
+
+- Collaborative programming opportunities.
+- Exciting projects in the MERN stack.
+- Roles involving innovative application design and development.
+
+- ## 🔗 Connect with Me
 
 <div align="center">
   <a href="https://github.com/md-Gafrujama" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
@@ -129,13 +186,4 @@ Awards:
   <a href="mailto:mdgafrujama@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </div>
 
-<div align="center">
-  <h4>💖 Support My Work</h4>
-  <p>If you find my projects helpful, consider giving them a ⭐️!</p>
-</div>
 
----
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
-</div>
