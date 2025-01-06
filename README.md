@@ -1,175 +1,141 @@
-<h1 align="center">👨‍💻 Md Gafrujama Ansari</h1>
-
 <div align="center">
-  <img src="/api/placeholder/800/200" alt="Banner" />
+  <img src="https://rishavanand.github.io/static/images/greetings.gif" alt="Greetings" width="600" />
+
+  <h1>👨‍💻 Md Gafrujama Ansari</h1>
+  <h3>Crafting Digital Experiences with MERN Stack Magic ✨</h3>
+
+  ![Profile Views](https://komarev.com/ghpvc/?username=md-Gafrujama&style=for-the-badge)
 </div>
 
-<h3 align="center">🚀 MERN Stack Developer | Problem Solver | Tech Enthusiast</h3>
-
-<p align="center">
-  <a href="https://linkedin.com/in/mdgafrujama-ansari"><img src="/api/placeholder/100/30" alt="LinkedIn" /></a>
-  <a href="https://twitter.com/gafru_dev"><img src="/api/placeholder/100/30" alt="Twitter" /></a>
-  <a href="https://dev.to/gafru"><img src="/api/placeholder/100/30" alt="Dev.to" /></a>
-</p>
+<div align="center">
+  <img src="https://img.shields.io/badge/MERN-Stack-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="MERN Stack" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+</div>
 
 ---
 
-### 🎯 About Me
+### 🎯 Quick Overview
 
-Passionate MERN Stack developer with a keen interest in building scalable web applications. Currently pursuing B.Tech in Electronics and Communication Engineering (2021-2025). I love turning complex problems into simple, beautiful, and intuitive solutions.
 
-```javascript
-const gafru = {
-    pronouns: "He" | "Him",
-    code: ["Javascript", "C++", "Java", "HTML", "CSS"],
-    technologies: {
-        frontEnd: {
-            js: ["React", "Next.js", "Gatsby"],
-            css: ["Tailwind", "Bootstrap", "Material UI", "SASS"],
-            design: ["Figma", "Adobe XD"]
-        },
-        backEnd: {
-            js: ["Node", "Express"],
-            databases: ["MongoDB", "MySQL", "SQLite"],
-            apis: ["REST", "GraphQL"]
-        },
-        devOps: ["AWS", "Docker", "Kubernetes", "CI/CD"],
-        testing: ["Jest", "React Testing Library"],
-        tools: ["Git", "Postman", "Redux", "Firebase"]
+const gafrujama = {
+    role: "MERN Stack Developer",
+    education: "B.Tech in Electronics and Communication (2021-2025)",
+    currentlyWorking: ["Job Portal", "Employee Management System"],
+    passions: ["Web Development", "Problem Solving", "Open Source"],
+    skills: {
+        languages: ["JavaScript", "Java", "C++", "Python"],
+        frontend: ["React", "Next.js", "Gatsby", "HTML5/CSS3"],
+        backend: ["Node.js", "Express", "MongoDB", "MySQL"],
+        tools: ["Git", "Docker", "AWS", "Postman"],
+        practices: ["CI/CD", "Agile", "Test-Driven Development"]
     },
-    architecture: ["Microservices", "Progressive Web Apps", "Single Page Apps"],
-    currentFocus: "Building Scalable MERN Stack Applications",
-    funFact: "I debug with console.log and refuse to admit it!"
+    funFact: "I can debug code faster than I can debug my life! 🎯"
 };
 ```
 
-### 🛠️ Technology Stack
+### 🚀 What I'm Up To
 
-<details>
-<summary>Frontend Development</summary>
+- 🔭 Currently working on: **Advanced MERN Stack Projects**
+- 🌱 Learning: **Data Structures, System Design & Cloud Architecture**
+- 👯 Looking to collaborate on: **Open Source & Innovative Web Projects**
+- 💬 Ask me about: **MERN Stack, Software Architecture, Problem Solving**
+- ⚡ Fun fact: **I turn coffee into code and bugs into features!**
 
-- **Languages:** HTML5, CSS3, JavaScript (ES6+)
-- **Frameworks/Libraries:** 
-  - React.js
-  - Next.js
-  - Gatsby
-- **Styling:** 
-  - Tailwind CSS
-  - Material UI
-  - Bootstrap
-  - SASS/SCSS
-- **State Management:** 
-  - Redux
-  - Context API
-- **Build Tools:** 
-  - Webpack
-  - Babel
-</details>
+### 💼 Professional Journey
 
-<details>
-<summary>Backend Development</summary>
+#### MERN Stack Developer Intern @ Campus Credentials
+*Feb 2024 - August 2024*
+<div align="center">
+  <img src="https://img.shields.io/badge/React-Frontend-61DAFB?style=flat-square&logo=react" />
+  <img src="https://img.shields.io/badge/Node-Backend-339933?style=flat-square&logo=node.js" />
+  <img src="https://img.shields.io/badge/MongoDB-Database-47A248?style=flat-square&logo=mongodb" />
+</div>
 
-- **Runtime:** Node.js
-- **Framework:** Express.js
-- **Databases:**
-  - MongoDB
-  - MySQL
-  - SQLite
-- **API Design:** 
-  - RESTful APIs
-  - GraphQL
-- **Authentication:** 
-  - JWT
-  - OAuth
-</details>
+- 🏗️ Architected and implemented a full-featured job portal with JWT authentication
+- 🔄 Developed RESTful APIs with Node.js and Express
+- 🎯 Integrated real-time notifications using Socket.io
+- 📈 Improved application performance by 40% through code optimization
+- 🤝 Contributed to open-source library PhoneStar
 
-<details>
-<summary>DevOps & Tools</summary>
-
-- **Cloud Services:** AWS
-- **Containerization:** Docker, Kubernetes
-- **Version Control:** Git, GitHub
-- **CI/CD:** Jenkins, GitHub Actions
-- **Testing:** Jest, Mocha
-- **API Testing:** Postman
-</details>
-
-### 🌟 Professional Experience
-
-#### Campus Credentials | MERN Stack Developer Intern
-*February 2024 - Present*
-
-- 🔹 Architected and developed a full-stack job portal with JWT authentication and role-based access control
-- 🔹 Contributed to the open-source library PhoneStar, implementing new features and optimizing performance
-- 🔹 Built RESTful APIs using Node.js and Express, integrated with MongoDB for efficient data management
-- 🔹 Implemented real-time notifications using Socket.io for enhanced user experience
-- 🔹 Technologies: React, Node.js, Express, MongoDB, JWT, Socket.io
-
-#### Cyberlative IT Solutions | Frontend Developer Intern
+#### Frontend Developer Intern @ Cyberlative IT Solutions
 *September 2023 - December 2023*
+<div align="center">
+  <img src="https://img.shields.io/badge/React-UI-61DAFB?style=flat-square&logo=react" />
+  <img src="https://img.shields.io/badge/JavaScript-Logic-F7DF1E?style=flat-square&logo=javascript" />
+  <img src="https://img.shields.io/badge/CSS3-Styling-1572B6?style=flat-square&logo=css3" />
+</div>
 
-- 🔹 Developed responsive company portfolio using React and Tailwind CSS
-- 🔹 Created reusable UI components library improving development efficiency by 40%
-- 🔹 Optimized website performance achieving 95+ Lighthouse score
-- 🔹 Technologies: React, Tailwind CSS, JavaScript, Git
+- 🎨 Designed and developed responsive company portfolio
+- 🔧 Built reusable component library
+- 📱 Implemented mobile-first design principles
+- ⚡ Achieved 95+ Lighthouse performance score
 
-### 📊 GitHub Statistics
+### 🛠️ Technical Arsenal
+
+#### Frontend Development
+<div align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="Next.js" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gatsby/gatsby-original-wordmark.svg" alt="Gatsby" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="SASS" height="50"/>
+</div>
+
+#### Backend Development
+<div align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" height="50"/>
+</div>
+
+### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="/api/placeholder/400/200" alt="GitHub Stats" />
-  <img src="/api/placeholder/400/200" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=md-Gafrujama&show_icons=true&count_private=true&hide_border=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=md-Gafrujama&hide_border=true&theme=radical" alt="GitHub Streak" />
 </div>
 
 ### 🏆 Achievements & Education
 
-```yaml
+
 Education:
   degree: "B.Tech in Electronics and Communication Engineering"
-  institution: "Your University Name"
   batch: "2021-2025"
-  achievements:
+  highlights:
     - "JEE Mains 98 percentile"
     - "Super30 Program Graduate"
-    - "Department Merit List holder"
+    - "Department Merit List Holder"
 
 Certifications:
-  - name: "MERN Stack Development"
-    issuer: "PW Skills"
-    date: "2023"
-  
-  - name: "AWS Cloud Practitioner"
-    issuer: "Amazon Web Services"
-    date: "2023"
-  
-  - name: "Top Open Source Contributor 2024"
-    issuer: "GitHub"
-    highlights: "Contributed to 20+ open source projects"
+  - "MERN Stack Development (PW Skills)"
+  - "AWS Cloud Practitioner"
+  - "Top Open Source Contributor 2024"
 
 Awards:
-  - "Best Innovation Award - College Tech Fest 2023"
+  - "Best Innovative Project - College Tech Fest 2023"
   - "1st Prize - National Level Hackathon 2023"
-  - "Open Source Recognition - HacktoberFest 2023"
+  - "Outstanding Contributor - Open Source Projects"
 ```
-
-### 🌱 Current Focus
-
-- 📚 Learning System Design and Architecture Patterns
-- 🔨 Building a Personal Portfolio with Next.js and Three.js
-- 📝 Writing technical blogs on Dev.to
-- 🤝 Contributing to open-source projects
 
 ### 📫 Let's Connect!
 
-<p align="center">
-  <a href="mailto:your.email@example.com">Email</a> •
-  <a href="https://linkedin.com/in/mdgafrujama-ansari">LinkedIn</a> •
-  <a href="https://twitter.com/gafru_dev">Twitter</a> •
-  <a href="https://dev.to/gafru">Dev.to</a> •
-  <a href="https://your-portfolio.com">Portfolio</a>
-</p>
+<div align="center">
+  <a href="https://github.com/md-Gafrujama" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://linkedin.com/in/md-gafrujama-ansari-a8b401287/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:mdgafrujama@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</div>
+
+<div align="center">
+  <h4>💖 Support My Work</h4>
+  <p>If you find my projects helpful, consider giving them a ⭐️!</p>
+</div>
 
 ---
 
-<p align="center">
-  <i>⭐️ If you like my projects, don't forget to give them a star!</i>
-</p>
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
+</div>
