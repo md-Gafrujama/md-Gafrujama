@@ -4,11 +4,7 @@
 
 
 ### 👋 Hi, I'm Md Gafrujama Ansari
-## Screenshot
 
-![E-Commerce Website Screenshot]([https://drive.google.com/uc?export=view&id=1YgrVpuY8JRyXc1UNii2HPAN4vGeVdV5q](https://drive.google.com/file/d/1vNDMoFat98APAg9l8gZgnp6miMcMeN9R/view?usp=sharing)
-
----
 
 ## MERN Full-Stack Developer
 
