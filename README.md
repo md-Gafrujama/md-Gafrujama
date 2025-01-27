@@ -144,7 +144,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=md-Gafrujama&show_icons=true&count_private=true&hide_border=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-Gafrujama&layout=compact&hide_border=true&theme=radical" alt="Top Languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=md-Gafrujama&hide_border=true&theme=radical" alt="Streak Stats" />
+  <img src="https://streak-stats.demolab.com/?user=md-Gafrujama&hide_border=true&theme=radical" alt="Streak Stats" />
 </div>
 
 
