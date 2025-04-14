@@ -5,7 +5,9 @@
 
 ### 👋 Hi, I'm Md Gafrujama Ansari
 ## My Profile
-
+<div align="center">
+  <img src="https://rishavanand.github.io/static/images/greetings.gif" alt="Greetings" width="600" />
+</div>
 
 ## MERN Full-Stack Developer
 
