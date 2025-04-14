@@ -1,10 +1,5 @@
-<div align="center">
-  <img src="https://rishavanand.github.io/static/images/greetings.gif" alt="Greetings" width="600" />
-</div>
+# <div align="center">👋 Hi, I'm Md Gafrujama Ansari</div>
 
-
-### 👋 Hi, I'm Md Gafrujama Ansari
-## My Profile
 <div align="center">
   <img src="https://rishavanand.github.io/static/images/greetings.gif" alt="Greetings" width="600" />
 </div>
@@ -25,19 +20,19 @@
 ## 🌱 Currently Learning
 
 - Data Structure and Algorithm
-- MERN Stack Devlopment
-- Final Year Project .
+- MERN Stack Development
+- Final Year Project
 
 ## ❓ Ask Me About
 
-- Anything related to the MERN stack and associated technologies.
-- Innovative application design and development.
-- Collaborative programming and version control with Git.
+- Anything related to the MERN stack and associated technologies
+- Innovative application design and development
+- Collaborative programming and version control with Git
 
 ## ⚡ Fun Fact
 
-- I prefer tabs over spaces.
-- I have a passion for solving complex problems with elegant code solutions.
+- I prefer tabs over spaces
+- I have a passion for solving complex problems with elegant code solutions
 
 ---
 # 🚀 My Skill Set
@@ -87,7 +82,6 @@
   <a href="https://www.microsoft.com/en-us/sql-server/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="SQL Server" height="50" /></a> 
 </div>
 
-
 ### Tools & Technologies
 
 <div align="center">
@@ -113,30 +107,25 @@
 
 ---
 
-
-
 ## 💼 Experience
 
 ### Frontend Developer Intern
 **Cyberlative IT Solutions**  
 *September 2023 - December 2023*  
-- Worked on user-friendly and visually engaging website development using HTML, CSS, JavaScript, and React.
-- Developed the company's portfolio website and UI for various applications.
+- Worked on user-friendly and visually engaging website development using HTML, CSS, JavaScript, and React
+- Developed the company's portfolio website and UI for various applications
 
 ### MERN Stack Developer Intern
 **Campus Credentials**  
-*Feb 2024-Agust 2024*  
-- Created a job portal with login and sign-up functionality using JSON Web Tokens (JWT) and the MERN stack.
-- Contributed to the open-source library PhoneStar and optimized existing codes.
+*Feb 2024 - August 2024*  
+- Created a job portal with login and sign-up functionality using JSON Web Tokens (JWT) and the MERN stack
+- Contributed to the open-source library PhoneStar and optimized existing codes
 
 ### Full-Stack Developer
-** Project**  
-*Feb 02-Agust 2024*
-
-- Developed an Employee Management System with CRUD operations using React.
-  
-- The Job Portal project is a FullStack application built using the MERN stack, featuring user authentication with JWT, job listings, and application management 
-  functionalities.
+**Project**  
+*Feb 2024 - August 2024*
+- Developed an Employee Management System with CRUD operations using React
+- The Job Portal project is a FullStack application built using the MERN stack, featuring user authentication with JWT, job listings, and application management functionalities
 
 ---
 
@@ -148,10 +137,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=md-Gafrujama&hide_border=true&theme=radical" alt="Streak Stats" />
 </div>
 
-
-
 ---
-
 
 ## 📈 Profile Views
 
@@ -161,29 +147,29 @@
 
 ## 🏆 Achievements
 
-- **Top Contributor** at Open Source Project for contributions in 2024.
-- **Certified MERN Stack Developer** from PW Skills.
-- *I completed my 12th grade in 2021, along with the Super30 program, which provided intensive training in mathematics and science. I achieved a 98 percentile in JEE Mains, demonstrating strong analytical and problem-solving skills.*.
+- **Top Contributor** at Open Source Project for contributions in 2024
+- **Certified MERN Stack Developer** from PW Skills
+- Completed 12th grade in 2021, along with the Super30 program, which provided intensive training in mathematics and science. Achieved a 98 percentile in JEE Mains, demonstrating strong analytical and problem-solving skills
+
 ---
 
 ## 📚 Education
 
-- **Bachelor's Degree in Electronics and Communication Engineering.**  
+- **Bachelor's Degree in Electronics and Communication Engineering**  
   Batch: 2021-2025
+
 ---
 
 ## 👀 Looking for
 
-- Collaborative programming opportunities.
-- Exciting projects in the MERN stack.
-- Roles involving innovative application design and development.
+- Collaborative programming opportunities
+- Exciting projects in the MERN stack
+- Roles involving innovative application design and development
 
-- ## 🔗 Connect with Me
+## 🔗 Connect with Me
 
 <div align="center">
   <a href="https://github.com/md-Gafrujama" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://linkedin.com/in/md-gafrujama-ansari-a8b401287/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:mdgafrujama@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </div>
-
-
