@@ -137,6 +137,10 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=md-Gafrujama&hide_border=true&theme=radical" alt="Streak Stats" />
 </div>
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/md-Gafrujama/md-Gafrujama/main/developer-workspace.png" alt="Developer Workspace" width="800" />
+</div>
+
 ---
 
 ## 📈 Profile Views
