@@ -450,7 +450,10 @@
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-Gafrujama&layout=compact&hide_border=true&title_color=00ff41&text_color=c9d1d9&bg_color=0d1117&theme=dark&langs_count=10&hide=html,css" alt="Top Languages" />
 </div>
 
-
+### 🔥 Contribution Streak & Activity
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=md-Gafrujama&theme=dark&hide_border=true&background=0D1117&fire=00ff41&ring=00ff41&currStreakNum=00ff41&sideNums=00ff41&currStreakLabel=00ff41&sideLabels=00ff41&dates=00ff41" alt="GitHub Streak Stats" />
+</div>
 
 ### 🏆 Achievement Trophy Gallery
 <div align="center">
