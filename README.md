@@ -450,9 +450,22 @@
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-Gafrujama&layout=compact&hide_border=true&title_color=00ff41&text_color=c9d1d9&bg_color=0d1117&theme=dark&langs_count=10&hide=html,css" alt="Top Languages" />
 </div>
 
-### 🔥 Contribution Streak & Activity
+## 📊 GitHub Analytics & Performance
+
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=md-Gafrujama&theme=dark&hide_border=true&background=0D1117&fire=00ff41&ring=00ff41&currStreakNum=00ff41&sideNums=00ff41&currStreakLabel=00ff41&sideLabels=00ff41&dates=00ff41" alt="GitHub Streak Stats" />
+
+### 🔥 Contribution Streak
+<img src="https://streak-stats.demolab.com/?user=md-Gafrujama&theme=dark&hide_border=true&background=0D1117&fire=00ff41&ring=00ff41" alt="GitHub Streak" width="48%" />
+
+### 📈 GitHub Stats
+<img src="https://github-readme-stats.vercel.app/api?username=md-Gafrujama&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=00ff41&icon_color=00ff41" alt="GitHub Stats" width="48%" />
+
+### 💻 Top Languages
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-Gafrujama&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=00ff41" alt="Top Languages" width="95%" />
+
+### 📊 Activity Graph
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=md-Gafrujama&theme=react-dark&bg_color=0D1117&hide_border=true&color=00ff41&line=00ff41&point=00ff41" alt="Activity Graph" width="100%" />
+
 </div>
 
 ### 🏆 Achievement Trophy Gallery
