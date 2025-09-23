@@ -1,179 +1,263 @@
-# <div align="center">👋 Hi, I'm Md Gafrujama Ansari</div>
+# 👋 Hi, I'm Md Gafrujama Ansari
 
 <div align="center">
-  <img src="https://rishavanand.github.io/static/images/greetings.gif" alt="Greetings" width="600" />
-</div>
-
-## MERN Full-Stack Developer
-
-<div align="center">
-  <img src="https://img.shields.io/badge/MERN-Stack-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="MERN Stack" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-</div>
-
----
-
-## 🌱 Currently Learning
-
-- Data Structure and Algorithm
-- MERN Stack Development
-- Final Year Project
-
-## ❓ Ask Me About
-
-- Anything related to the MERN stack and associated technologies
-- Innovative application design and development
-- Collaborative programming and version control with Git
-
-## ⚡ Fun Fact
-
-- I prefer tabs over spaces
-- I have a passion for solving complex problems with elegant code solutions
-
----
-# 🚀 My Skill Set
-
-## Frontend
-<div align="center"> 
-  <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" height="50" /></a> 
-  <a href="https://getbootstrap.com/docs/5.0/getting-started/introduction/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original-wordmark.svg" alt="Bootstrap" height="50" /></a> 
-  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" height="50" /></a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" height="50" /></a> 
-  <a href="https://www.javascript.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" height="50" /></a> 
-  <a href="https://mui.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" alt="Material UI" height="50" /></a> 
-  <a href="https://sass-lang.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="SASS" height="50" /></a> 
-  <a href="https://webpack.js.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg" alt="Webpack" height="50" /></a> 
-  <a href="https://gatsbyjs.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gatsby/gatsby-original-wordmark.svg" alt="Gatsby" height="50" /></a> 
-  <a href="https://nextjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="Next.js" height="50" /></a> 
-</div>
-
-## Backend
-<div align="center"> 
-  <a href="https://nodejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a> 
-  <a href="https://expressjs.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" height="50" /></a> 
-  <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a> 
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a> 
-  <a href="https://firebase.google.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain-wordmark.svg" alt="Firebase" height="50" /></a> 
-</div>
-
-## DevOps
-<div align="center"> 
-  <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" height="50" /></a> 
-  <a href="https://kubernetes.io/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original-wordmark.svg" alt="Kubernetes" height="50" /></a> 
-  <a href="https://aws.amazon.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a> 
-</div>
-
-## Programming
-<div align="center"> 
-  <a href="https://www.oracle.com/java/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="Java" height="50" /></a> 
-  <a href="https://isocpp.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" height="50" /></a> 
-  <a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" height="50" /></a> 
-  <a href="https://www.javascript.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" height="50" /></a> 
-</div>
-
-## Databases
-<div align="center"> 
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a> 
-  <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a> 
-  <a href="https://www.microsoft.com/en-us/sql-server/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="SQL Server" height="50" /></a> 
-</div>
-
-### Tools & Technologies
-
-<div align="center">
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code" style="margin: 10px;" />
-  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" alt="Visual Studio" style="margin: 10px;" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" style="margin: 10px;" />
-  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL" style="margin: 10px;" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" style="margin: 10px;" />
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" style="margin: 10px;" />
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" style="margin: 10px;" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" style="margin: 10px;" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" style="margin: 10px;" />
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" style="margin: 10px;" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" style="margin: 10px;" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" style="margin: 10px;" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" style="margin: 10px;" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" style="margin: 10px;" />
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" style="margin: 10px;" />
-  <img src="https://img.shields.io/badge/C%2B%2B-F34B7F?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" style="margin: 10px;" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" style="margin: 10px;" />
-  <img src="https://img.shields.io/badge/Matlab-0076A8?style=for-the-badge&logo=matlab&logoColor=white" alt="Matlab" style="margin: 10px;" />
-</div>
-
----
-
-## 💼 Experience
-
-### Frontend Developer Intern
-**Cyberlative IT Solutions**  
-*September 2023 - December 2023*  
-- Worked on user-friendly and visually engaging website development using HTML, CSS, JavaScript, and React
-- Developed the company's portfolio website and UI for various applications
-
-### MERN Stack Developer Intern
-**Campus Credentials**  
-*Feb 2024 - August 2024*  
-- Created a job portal with login and sign-up functionality using JSON Web Tokens (JWT) and the MERN stack
-- Contributed to the open-source library PhoneStar and optimized existing codes
-
-### Full-Stack Developer
-**Project**  
-*Feb 2024 - August 2024*
-- Developed an Employee Management System with CRUD operations using React
-- The Job Portal project is a FullStack application built using the MERN stack, featuring user authentication with JWT, job listings, and application management functionalities
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=md-Gafrujama&show_icons=true&count_private=true&hide_border=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-Gafrujama&layout=compact&hide_border=true&theme=radical" alt="Top Languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=md-Gafrujama&hide_border=true&theme=radical" alt="Streak Stats" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=MERN+Full-Stack+Developer;Open+Source+Enthusiast;Problem+Solver;Always+Learning&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22&pause=1000" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/md-Gafrujama/md-Gafrujama/main/developer-workspace.png" alt="Developer Workspace" width="800" />
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500" alt="Coding Animation" />
+</div>
+
+## 🚀 About Me
+
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+
+- 🔭 I'm currently working on **Final Year Project & MERN Stack Development**
+- 🌱 I'm currently learning **Data Structures & Algorithms, Advanced React Patterns**
+- 👯 I'm looking to collaborate on **Open Source Projects & Web Applications**
+- 💬 Ask me about **MERN Stack, JavaScript, React, Node.js, MongoDB**
+- 📫 How to reach me: **mdgafrujama@gmail.com**
+- ⚡ Fun fact: **I prefer tabs over spaces & love solving complex problems with elegant code**
+
+<br clear="right"/>
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Frontend Technologies
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,bootstrap,tailwind,sass,materialui,webpack" alt="Frontend Technologies" />
+</div>
+
+### 🔧 Backend Technologies  
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase,graphql,postman" alt="Backend Technologies" />
+</div>
+
+### ☁️ DevOps & Cloud
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,git,github,linux" alt="DevOps Technologies" />
+</div>
+
+### 🎨 Development Tools
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,figma,photoshop" alt="Development Tools" />
+</div>
+
+### 📱 Programming Languages
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js,java,cpp,c,python,matlab" alt="Programming Languages" />
 </div>
 
 ---
 
-## 📈 Profile Views
+## 💼 Professional Experience
 
-![Profile Views](https://komarev.com/ghpvc/?username=md-Gafrujama&style=for-the-badge)
+<div align="center">
+
+### 🚀 Full-Stack Developer | *Feb 2024 - August 2024*
+**Campus Credentials**
+- 🏗️ Developed Employee Management System with full CRUD operations using React
+- 🌐 Built comprehensive Job Portal using MERN stack with JWT authentication
+- 🔧 Contributed to open-source PhoneStar library and optimized existing codebases
+- 📈 Implemented responsive design patterns and modern UI/UX principles
+
+### 💻 Frontend Developer Intern | *Sep 2023 - Dec 2023*  
+**Cyberlative IT Solutions**
+- 🎨 Crafted user-friendly and visually engaging websites using React & modern CSS
+- 🏢 Developed company portfolio website with interactive animations
+- 📱 Created responsive UI components for multiple client applications
+- ⚡ Optimized website performance and loading speeds
+
+</div>
 
 ---
 
-## 🏆 Achievements
+## 📊 GitHub Analytics
 
-- **Top Contributor** at Open Source Project for contributions in 2024
-- **Certified MERN Stack Developer** from PW Skills
-- Completed 12th grade in 2021, along with the Super30 program, which provided intensive training in mathematics and science. Achieved a 98 percentile in JEE Mains, demonstrating strong analytical and problem-solving skills
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=md-Gafrujama&show_icons=true&count_private=true&hide_border=true&title_color=00ff00&icon_color=00ff00&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-Gafrujama&layout=compact&hide_border=true&title_color=00ff00&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=md-Gafrujama&hide_border=true&background=0D1117&stroke=0000&ring=00ff00&fire=00ff00&currStreakLabel=00ff00" alt="Streak Stats" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=md-Gafrujama&bg_color=0d1117&color=00ff00&line=00ff00&point=ffffff&area=true&hide_border=true" alt="Activity Graph" />
+</div>
+
+---
+
+## 🏆 Achievements & Certifications
+
+<div align="center">
+
+🥇 **Top Contributor** - Open Source Project 2024  
+🎓 **Certified MERN Stack Developer** - PW Skills  
+🎯 **JEE Mains 98 Percentile** - Demonstrating strong analytical skills  
+🌟 **Super30 Program Graduate** - Intensive Mathematics & Science Training  
+
+</div>
 
 ---
 
 ## 📚 Education
 
-- **Bachelor's Degree in Electronics and Communication Engineering**  
-  Batch: 2021-2025
+**🎓 Bachelor's in Electronics and Communication Engineering**  
+*Batch: 2021-2025*  
+- Specialized in digital systems and communication protocols
+- Active in coding clubs and technical societies
+- Maintained excellent academic performance while pursuing full-stack development
 
 ---
 
-## 👀 Looking for
-
-- Collaborative programming opportunities
-- Exciting projects in the MERN stack
-- Roles involving innovative application design and development
-
-## 🔗 Connect with Me
+## 🌐 Web Development Resources Hub
 
 <div align="center">
-  <a href="https://github.com/md-Gafrujama" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://linkedin.com/in/md-gafrujama-ansari-a8b401287/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:mdgafrujama@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <h3>📖 Comprehensive Learning Resources Collection</h3>
+  <p><em>150+ Curated Resources for Web Developers</em></p>
+</div>
+
+### 🗺️ Developer Roadmaps
+- **[Frontend Roadmap](https://roadmap.sh/frontend)** - Complete frontend development path
+- **[Backend Roadmap](https://roadmap.sh/backend)** - Backend development roadmap  
+- **[React Roadmap](https://roadmap.sh/react)** - React development guide
+- **[DevOps Roadmap](https://roadmap.sh/devops)** - DevOps learning path
+
+### 📚 Essential Documentation & Cheatsheets
+- **[MDN Web Docs](https://developer.mozilla.org/)** - Comprehensive web technology documentation
+- **[DevDocs](https://devdocs.io/)** - Fast offline documentation browser
+- **[CSS Grid Cheat Sheet](https://grid.malven.co/)** - Visual CSS Grid guide
+- **[Flexbox Cheat Sheet](https://flexbox.malven.co/)** - CSS Flexbox visual guide
+
+### 🎨 Design & UI Tools
+- **[Figma](https://figma.com/)** - Collaborative design platform
+- **[Adobe XD](https://www.adobe.com/products/xd.html)** - UI/UX design and prototyping
+- **[Undesign](https://undesign.learn.uno/)** - Free design tools collection
+- **[Shadcn Studio](https://shadcnui-studio.vercel.app/)** - Tailwind component previews
+
+### 🎯 Coding Practice Platforms
+- **[Frontend Mentor](https://www.frontendmentor.io/)** - Real-world frontend challenges
+- **[CodePen](https://codepen.io/)** - Online code editor and community
+- **[CSSBattle](https://cssbattle.dev/)** - CSS code-golfing challenges
+
+### 🖼️ Asset Resources
+- **[Unsplash](https://unsplash.com/)** - Free high-quality images
+- **[unDraw](https://undraw.co/)** - Open-source illustrations
+- **[Tabler Icons](https://tablericons.com/)** - Free SVG icons
+- **[LottieFiles](https://lottiefiles.com/)** - Animation library
+
+### 🌈 Color & Typography
+- **[Coolors](https://coolors.co/)** - Color palette generator
+- **[Google Fonts](https://fonts.google.com/)** - Free web fonts
+- **[FontPair](https://fontpair.co/)** - Font combination suggestions
+
+### ⚙️ Development Tools
+- **[JSON Server](https://github.com/typicode/json-server)** - Mock REST API
+- **[Postman](https://www.postman.com/)** - API development platform
+- **[Carbon](https://carbon.now.sh/)** - Beautiful code screenshots
+- **[CSS Grid Generator](https://cssgrid-generator.netlify.app/)** - Visual CSS Grid tool
+
+### 🔧 Generators & Utilities
+- **[Meta Tags](https://metatags.io/)** - Meta tag generator
+- **[RealFaviconGenerator](https://realfavicongenerator.net/)** - Favicon generator
+- **[Regex101](https://regex101.com/)** - Regular expression tester
+- **[Can I Use](https://caniuse.com/)** - Browser compatibility checker
+
+---
+
+## 🎯 Featured Projects
+
+<div align="center">
+
+### 🌟 Job Portal Application
+**Tech Stack:** MERN, JWT, Tailwind CSS  
+A comprehensive job portal with user authentication, job listings, and application management.
+
+### 👥 Employee Management System  
+**Tech Stack:** React, Node.js, MongoDB  
+Full CRUD operations system for managing employee data with modern UI.
+
+### 🏢 Company Portfolio Website
+**Tech Stack:** React, SASS, Framer Motion  
+Responsive portfolio website with smooth animations and interactive elements.
+
+</div>
+
+---
+
+## 📈 Weekly Development Breakdown
+
+```text
+JavaScript   ████████████████████░░░░░   80.2 %
+React        ████████████████░░░░░░░░░   65.8 %
+Node.js      ███████████░░░░░░░░░░░░░░   45.3 %
+CSS/SASS     █████████░░░░░░░░░░░░░░░░   38.7 %
+HTML         ██████░░░░░░░░░░░░░░░░░░░   25.4 %
+```
+
+---
+
+## 🎵 Spotify Playing
+
+<div align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff" alt="Spotify Now Playing" />
+</div>
+
+---
+
+## 🌟 Connect With Me
+
+<div align="center">
+  
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/md-Gafrujama)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/md-gafrujama-ansari-a8b401287/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mdgafrujama@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](#)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](#)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](#)
+
+</div>
+
+---
+
+## 📊 Profile Analytics
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=md-Gafrujama&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/md-Gafrujama?label=Followers&style=for-the-badge&color=0e75b6" alt="GitHub Followers" />
+</div>
+
+---
+
+## 💝 Support My Work
+
+<div align="center">
+  
+If you like my projects and want to support my work, consider:
+
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](#)
+[![Sponsor](https://img.shields.io/badge/Sponsor-EA4AAA?style=for-the-badge&logo=github-sponsors&logoColor=white)](#)
+
+</div>
+
+---
+
+<div align="center">
+  
+### 🎯 *"Code is poetry written in logic"*
+  
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900" alt="Coding Banner" />
+
+**Thanks for visiting my profile! Feel free to explore my repositories and don't forget to star ⭐ the ones you find interesting!**
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" alt="Footer Wave" />
 </div>
