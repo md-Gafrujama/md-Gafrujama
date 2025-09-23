@@ -5,12 +5,12 @@
 </div>
 
 <div align="center">
-  <img src="https://camo.githubusercontent.com/5046cb083418fd1922b7f5990e594c3bb06f5d87e5516cd8839ae0aa48b3aec4/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261393831623738303433373739636463643263376462393062386236326233613775363931363938373139676267664e54524e4e4c4b5348436b6d6d6c4c3051434e5251564a5741624a5157686e6a304554383863366b5069495a50583635715836353273513738657236654764345756706e6d53666f36382b2f78434845644664535a68596e6464434d476b627842446e454b414c414e77" width="400" alt="Coding Animation" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding Animation" />
 </div>
 
 ## 🚀 About Me
 
-<img align="right" alt="Coding" width="380" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<img align="right" alt="Coding" width="380" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
 
 - 🔭 Currently working as **Full-Stack Developer & Team Lead**
 - 🌱 Learning **Advanced AI Integration, Microservices Architecture**
@@ -366,10 +366,16 @@ Monitoring & Logging     ███████░░░ 75%
 
 ---
 
-## 🎵 Currently Jamming To
+## 🎵 Currently Coding With Music
 
 <div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31k6rlzailuya4hblu5q3h3dc4b4&unique=true&count=3" alt="Spotify Recently Played" />
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300" alt="Music Animation" />
+  
+  ### 🎧 Favorite Coding Playlists
+  - **Lo-fi Hip Hop** - For deep focus sessions
+  - **Electronic/Synthwave** - High energy coding
+  - **Ambient/Chill** - Late night debugging
+  - **Classical** - Algorithm thinking
 </div>
 
 ---
