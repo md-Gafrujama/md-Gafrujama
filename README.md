@@ -8,6 +8,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=🚀+Full-Stack+Developer+%26+Team+Lead;💻+MERN+Stack+Specialist;🤖+AI+%26+Machine+Learning+Enthusiast;📊+SEO+%26+Digital+Marketing+Expert;🌟+Open+Source+Contributor;⚡+Always+Learning+%26+Building+Magic;🎯+Problem+Solver+%26+Innovation+Driver;🌍+Building+Solutions+for+Tomorrow&font=Fira%20Code&center=true&width=900&height=65&color=00ff41&vCenter=true&size=24&pause=1000&multiline=true" alt="Typing Animation" />
 </div>
 
+
 <div align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" alt="Coding Animation" />
 </div>
