@@ -136,7 +136,11 @@
 
 <div align="center">
   
-  <img src="https://github-readme-streak-stats.vercel.app/?user=md-Gafrujama&theme=dark&hide_border=true&background=0D1117&ring=00ff41&fire=00ff41&currStreakLabel=00ff41" alt="GitHub Streak" />
+  ### 🔥 **GitHub Contribution Streak**
+  
+  <a href="https://github.com/md-Gafrujama">
+    <img src="https://github-readme-streak-stats.vercel.app/api?user=md-Gafrujama&theme=dark&hide_border=true&background=0D1117&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&dates=00ff41&sideLabels=00ff41" alt="GitHub Streak" width="100%" />
+  </a>
   
 </div>
 
@@ -1097,6 +1101,263 @@ gantt
 - **🤖 AI Assistants:** GitHub Copilot, ChatGPT for code review and brainstorming
 
 </details>
+
+---
+
+## 🔧 Git & GitHub Commands & Workflow
+
+<div align="center">
+  <img src="https://media.giphy.com/media/kH6CqYiquZawmU1HI6/giphy.gif" width="400" alt="Git Workflow Animation" />
+  
+  <h3>⚡ Essential Git & GitHub Commands</h3>
+  <p><em>Mastering version control for efficient development</em></p>
+  
+</div>
+
+### 📚 **Essential Git Commands**
+
+<details>
+<summary><b>🚀 Getting Started & Configuration</b></summary>
+
+```bash
+# Configure Git user information
+git config --global user.name "Your Name"
+git config --global user.email "your.email@example.com"
+
+# Check Git configuration
+git config --list
+git config user.name
+git config user.email
+
+# Initialize a new repository
+git init
+
+# Clone a repository
+git clone https://github.com/username/repository.git
+git clone https://github.com/username/repository.git my-folder-name
+```
+
+</details>
+
+<details>
+<summary><b>📝 Basic Workflow Commands</b></summary>
+
+```bash
+# Check repository status
+git status
+
+# Add files to staging area
+git add .                    # Add all files
+git add filename.js          # Add specific file
+git add *.js                 # Add all .js files
+git add src/                 # Add entire directory
+
+# Commit changes
+git commit -m "Your commit message"
+git commit -am "Add and commit in one step"  # Skip staging for tracked files
+
+# View commit history
+git log
+git log --oneline            # Compact view
+git log --graph --oneline     # Visual graph
+git log --all --graph --decorate  # Full history
+
+# Show changes
+git diff                     # Unstaged changes
+git diff --staged            # Staged changes
+git diff HEAD                # All changes
+```
+
+</details>
+
+<details>
+<summary><b>🌿 Branching & Merging</b></summary>
+
+```bash
+# Branch operations
+git branch                    # List all branches
+git branch branch-name        # Create new branch
+git branch -d branch-name     # Delete branch
+git branch -D branch-name     # Force delete branch
+
+# Switch branches
+git checkout branch-name     # Switch to branch
+git checkout -b new-branch   # Create and switch to new branch
+git switch branch-name        # Modern way to switch
+git switch -c new-branch     # Create and switch (modern)
+
+# Merge branches
+git merge branch-name        # Merge branch into current
+git merge --no-ff branch-name # Merge with commit history
+
+# Rebase (cleaner history)
+git rebase main              # Rebase current branch onto main
+git rebase -i HEAD~3         # Interactive rebase last 3 commits
+```
+
+</details>
+
+<details>
+<summary><b>🔄 Remote Repository Operations</b></summary>
+
+```bash
+# Remote repository management
+git remote -v                 # List remotes
+git remote add origin URL     # Add remote
+git remote remove origin      # Remove remote
+git remote set-url origin URL # Update remote URL
+
+# Push to remote
+git push origin main          # Push to main branch
+git push -u origin main       # Push and set upstream
+git push --all                # Push all branches
+git push --tags               # Push all tags
+
+# Pull from remote
+git pull origin main          # Pull and merge
+git fetch origin              # Fetch without merging
+git fetch --all               # Fetch from all remotes
+
+# Clone and fork workflow
+git clone https://github.com/user/repo.git
+cd repo
+git remote add upstream https://github.com/original/repo.git
+git fetch upstream
+git merge upstream/main
+```
+
+</details>
+
+<details>
+<summary><b>🔍 Advanced Git Commands</b></summary>
+
+```bash
+# Undo changes
+git restore filename.js       # Discard unstaged changes
+git restore --staged file.js # Unstage file
+git reset HEAD~1             # Undo last commit (keep changes)
+git reset --hard HEAD~1      # Undo last commit (discard changes)
+git revert HEAD              # Create new commit that undoes changes
+
+# Stash (temporary storage)
+git stash                    # Save changes temporarily
+git stash save "message"     # Stash with message
+git stash list               # List all stashes
+git stash pop                # Apply and remove latest stash
+git stash apply              # Apply stash but keep it
+git stash drop               # Delete latest stash
+
+# Tags
+git tag                      # List tags
+git tag v1.0.0               # Create lightweight tag
+git tag -a v1.0.0 -m "Release" # Create annotated tag
+git push origin v1.0.0       # Push tag to remote
+git push --tags              # Push all tags
+
+# Clean up
+git clean -n                 # Preview files to be removed
+git clean -f                 # Remove untracked files
+git clean -fd                # Remove untracked files and directories
+```
+
+</details>
+
+<details>
+<summary><b>🔐 GitHub-Specific Commands & Workflow</b></summary>
+
+```bash
+# GitHub CLI (gh) commands
+gh auth login                # Authenticate with GitHub
+gh repo clone user/repo       # Clone repository
+gh repo create               # Create new repository
+gh repo view                 # View repository details
+gh issue list                # List issues
+gh pr create                 # Create pull request
+gh pr list                   # List pull requests
+gh pr checkout 123          # Checkout PR #123
+
+# Fork and contribute workflow
+# 1. Fork repository on GitHub
+# 2. Clone your fork
+git clone https://github.com/YOUR-USERNAME/repo.git
+cd repo
+
+# 3. Add original repo as upstream
+git remote add upstream https://github.com/ORIGINAL-USER/repo.git
+
+# 4. Create feature branch
+git checkout -b feature-name
+
+# 5. Make changes and commit
+git add .
+git commit -m "Add new feature"
+
+# 6. Push to your fork
+git push origin feature-name
+
+# 7. Create Pull Request on GitHub
+# 8. Keep your fork updated
+git fetch upstream
+git merge upstream/main
+git push origin main
+```
+
+</details>
+
+### 🎯 **My Daily Git Workflow**
+
+<div align="center">
+
+| ⏰ Time | 🔄 Action | 💻 Command |
+|:------:|:--------:|:----------:|
+| **Morning** | Check status | `git status` |
+| **Before work** | Pull latest | `git pull origin main` |
+| **During work** | Stage changes | `git add .` |
+| **After feature** | Commit | `git commit -m "feat: description"` |
+| **Before push** | Check diff | `git diff HEAD` |
+| **End of day** | Push changes | `git push origin main` |
+
+</div>
+
+### 📋 **Commit Message Convention**
+
+```bash
+# Format: <type>(<scope>): <subject>
+
+# Types:
+feat:     # New feature
+fix:      # Bug fix
+docs:     # Documentation changes
+style:    # Code style (formatting, no code change)
+refactor: # Code refactoring
+test:     # Adding tests
+chore:    # Maintenance tasks
+
+# Examples:
+git commit -m "feat(auth): add user login functionality"
+git commit -m "fix(api): resolve CORS issue"
+git commit -m "docs(readme): update installation guide"
+git commit -m "style(components): format code with prettier"
+```
+
+### 🚀 **Quick Reference Cheat Sheet**
+
+<div align="center">
+
+```bash
+# Most Used Commands
+git status                  # Check what's changed
+git add .                   # Stage all changes
+git commit -m "message"     # Commit changes
+git push origin main        # Push to GitHub
+git pull origin main        # Pull latest changes
+git branch                  # List branches
+git checkout -b feature    # Create new branch
+git merge feature           # Merge branch
+git log --oneline           # View history
+```
+
+</div>
 
 ---
 
