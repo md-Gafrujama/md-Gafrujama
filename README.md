@@ -9,12 +9,26 @@
 </div>
 
 <div align="center">
+  
+  ### 🌐 **Explore My Portfolio**
+  
+  [![Portfolio Website](https://img.shields.io/badge/🌟_Visit_My_Portfolio-FF5722?style=for-the-badge&logo=vercel&logoColor=white)](https://my-personal-portfolio-eight-henna.vercel.app/)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/md-gafrujama-ansari-a8b401287/)
+  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/md-Gafrujama)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mdgafrujama@gmail.com)
+  
+</div>
+
+<div align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" alt="Coding Animation" />
 </div>
 
 <br/>
 
 <div align="center">
+  
+  ### 📊 **Profile Statistics**
+  
   <a href="https://github.com/md-Gafrujama">
     <img src="https://visitcount.itsvg.in/api?id=md-Gafrujama&label=Profile%20Views&color=0&icon=5&pretty=true" alt="Profile Views" />
   </a>
@@ -25,6 +39,7 @@
     <img src="https://img.shields.io/github/stars/md-Gafrujama?label=Profile%20Stars&style=social&logo=github" alt="Profile Stars" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=md-Gafrujama&color=blueviolet&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views Counter" />
+  
 </div>
 
 ---
@@ -33,22 +48,36 @@
 
 <div align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="450" alt="Coding Animation" />
+  
+  <h3>💡 Transforming Ideas Into Digital Reality</h3>
+  <p><em>Passionate Full-Stack Developer | AI Enthusiast | Team Leader | Open Source Contributor</em></p>
+  
 </div>
 
 ### 💫 **Current Status**
 
-<div align="left">
+<div align="center">
 
-- 🔭 **Role:** Full-Stack Developer & Team Lead at **QUORE B2B MARKETING**
-- 🌱 **Learning:** Advanced AI Integration, Microservices, Cloud Architecture, Web3
-- 👯 **Collaborating:** AI-powered applications & Open Source projects
-- 💬 **Expertise:** MERN Stack, AI/ML, SEO, Digital Marketing, Team Leadership
-- 📧 **Contact:** [mdgafrujama@gmail.com](mailto:mdgafrujama@gmail.com)
-- 📱 **Phone:** [+91 6205878945](tel:+916205878945)
-- ⚡ **Superpower:** Building full-stack apps while optimizing for SEO simultaneously
-- 🎯 **Mission:** Creating innovative AI-powered solutions that make a real difference
-- 🏆 **Experience:** 2+ years in professional development
+| 🎯 Aspect | 📝 Details |
+|:---------:|:----------|
+| **🔭 Current Role** | Full-Stack Developer & Team Lead at **QUORE B2B MARKETING** |
+| **🌱 Currently Learning** | Advanced AI Integration, Microservices, Cloud Architecture, Web3 |
+| **👯 Collaborating On** | AI-powered applications & Open Source projects |
+| **💬 Core Expertise** | MERN Stack, AI/ML, SEO, Digital Marketing, Team Leadership |
+| **⚡ Superpower** | Building full-stack apps while optimizing for SEO simultaneously |
+| **🎯 Mission** | Creating innovative AI-powered solutions that make a real difference |
+| **🏆 Experience** | 2+ years in professional development |
 
+</div>
+
+<div align="center">
+  
+  ### 📞 **Get In Touch**
+  
+  [![Email](https://img.shields.io/badge/📧_Email-mdgafrujama@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mdgafrujama@gmail.com)
+  [![Phone](https://img.shields.io/badge/📱_Phone-+91%206205878945-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+916205878945)
+  [![Portfolio](https://img.shields.io/badge/🌟_Portfolio-Visit_Now-FF5722?style=for-the-badge&logo=vercel&logoColor=white)](https://my-personal-portfolio-eight-henna.vercel.app/)
+  
 </div>
 
 ### 🌈 **Fun Facts & Personality**
@@ -66,19 +95,40 @@
 
 </div>
 
-### 📊 **Quick Stats**
+<div align="center">
+  
+  ### 🎯 **Interested in Working Together?**
+  
+  <p>I'm always excited to work on new projects and collaborate with amazing people!</p>
+  
+  <a href="https://my-personal-portfolio-eight-henna.vercel.app/">
+    <img src="https://img.shields.io/badge/🌟_Explore_My_Portfolio-FF5722?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="mailto:mdgafrujama@gmail.com?subject=Let's%20Work%20Together">
+    <img src="https://img.shields.io/badge/💼_Let's_Collaborate-00C851?style=for-the-badge&logo=gmail&logoColor=white" alt="Collaborate" />
+  </a>
+  
+</div>
+
+### 📊 **Quick Stats & Achievements**
 
 <div align="center">
 
-| 🔥 Metric | 📊 Achievement |
-|:---------:|:-------------:|
-| **DSA Problems** | 400+ solved across platforms |
-| **Open Source** | 18+ contributions |
-| **Projects** | 20+ successful deliveries |
-| **Client Satisfaction** | 98%+ rating |
-| **Performance Boost** | 65% average improvement |
-| **Delivery Rate** | 100% on-time success |
+| 🔥 Metric | 📊 Achievement | 🎯 Impact |
+|:---------:|:-------------:|:--------:|
+| **💻 DSA Problems** | **400+** solved across platforms | Problem-solving mastery |
+| **🌟 Open Source** | **18+** contributions | Community impact |
+| **🚀 Projects** | **20+** successful deliveries | Real-world experience |
+| **⭐ Client Satisfaction** | **98%+** rating | Quality assurance |
+| **⚡ Performance Boost** | **65%** average improvement | Optimization expertise |
+| **✅ Delivery Rate** | **100%** on-time success | Reliability & commitment |
 
+</div>
+
+<div align="center">
+  
+  <img src="https://github-readme-streak-stats.vercel.app/?user=md-Gafrujama&theme=dark&hide_border=true&background=0D1117&ring=00ff41&fire=00ff41&currStreakLabel=00ff41" alt="GitHub Streak" />
+  
 </div>
 
 ---
@@ -241,6 +291,14 @@
   ### 🌟 **Featured Projects Showcase**
   
   <p><em>Building innovative solutions that make a real impact</em></p>
+  
+  <h3>🎯 Want to see more?</h3>
+  <p>
+    <a href="https://my-personal-portfolio-eight-henna.vercel.app/">
+      <img src="https://img.shields.io/badge/🌟_Explore_Full_Portfolio-FF5722?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+    </a>
+  </p>
+  
 </div>
 
 <table>
@@ -1038,13 +1096,16 @@ gantt
 <div align="center">
   <img src="https://media.giphy.com/media/Q7LHmoFwVP6Yw1gyaN/giphy.gif" width="400" alt="Network Animation" />
   
+  <h3>🤝 Let's Connect & Collaborate!</h3>
   <p><em>Connecting with developers and innovators worldwide</em></p>
+  
 </div>
 
 ### 🌐 **Professional Connect & Portfolio**
+
 <div align="center">
 
-[![Portfolio Website](https://img.shields.io/badge/🌟_Portfolio_Website-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://gafrujama-portfolio.vercel.app)
+[![Portfolio Website](https://img.shields.io/badge/🌟_Portfolio_Website-FF5722?style=for-the-badge&logo=vercel&logoColor=white)](https://my-personal-portfolio-eight-henna.vercel.app/)
 [![LinkedIn Profile](https://img.shields.io/badge/LinkedIn_Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/md-gafrujama-ansari-a8b401287/)
 [![GitHub Repositories](https://img.shields.io/badge/GitHub_Repos-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/md-Gafrujama)
 [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow_Profile-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/md-gafrujama)
@@ -1053,29 +1114,26 @@ gantt
 </div>
 
 ### 💬 **Communication & Social Channels**
+
 <div align="center">
 
-[![Professional Email](https://img.shields.io/badge/📧_Professional_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mdgafrujama@gmail.com)
-[![WhatsApp Business](https://img.shields.io/badge/📱_WhatsApp_Business-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+916205878945)
+[![Professional Email](https://img.shields.io/badge/📧_Email-mdgafrujama@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mdgafrujama@gmail.com)
+[![WhatsApp Business](https://img.shields.io/badge/📱_WhatsApp-+91%206205878945-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+916205878945)
 [![Twitter/X Handle](https://img.shields.io/badge/Twitter/X_Updates-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](#)
 [![Discord Community](https://img.shields.io/badge/Discord_Community-7289DA?style=for-the-badge&logo=discord&logoColor=white)](#)
 [![Telegram Channel](https://img.shields.io/badge/Telegram_Channel-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](#)
 
 </div>
 
-### 📊 **Community Engagement Metrics**
-
 <div align="center">
-
-| 🌟 Platform | 👥 Followers/Connections | 📊 Engagement Rate | 🎯 Focus Area |
-|:-----------:|:------------------------:|:------------------:|:------------:|
-| **LinkedIn** | 2,500+ connections | 85% engagement | Professional networking |
-| **GitHub** | 450+ followers | 75% star rate | Open source projects |
-| **Twitter** | 1,200+ followers | 12% engagement rate | Tech insights & tips |
-| **Dev.to** | 800+ followers | 4.8/5 average rating | Technical articles |
-| **YouTube** | 1,500+ subscribers | 15k+ total views | Coding tutorials |
-| **Discord** | 300+ community members | Daily active discussions | Developer support |
-
+  
+  ### 💼 **Open to Opportunities**
+  
+  <p>I'm always open to discussing new projects, creative ideas, or opportunities to be part of your visions.</p>
+  
+  [![Hire Me](https://img.shields.io/badge/💼_Hire_Me-00C851?style=for-the-badge&logo=linkedin&logoColor=white)](mailto:mdgafrujama@gmail.com?subject=Collaboration%20Opportunity)
+  [![Portfolio](https://img.shields.io/badge/🌟_View_Portfolio-FF5722?style=for-the-badge&logo=vercel&logoColor=white)](https://my-personal-portfolio-eight-henna.vercel.app/)
+  
 </div>
 
 ---
@@ -1119,9 +1177,25 @@ gantt
   
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="100%" alt="Snake Game" />
   
-  **Feel free to explore my repositories, and don't forget to ⭐ the ones you find interesting!**
+  <h3>🚀 Ready to Collaborate?</h3>
   
-  *Let's connect and build something amazing together! 🚀*
+  <p>
+    <strong>Feel free to explore my repositories, and don't forget to ⭐ the ones you find interesting!</strong>
+  </p>
+  
+  <p>
+    <a href="https://my-personal-portfolio-eight-henna.vercel.app/">
+      <img src="https://img.shields.io/badge/🌟_Visit_Portfolio-FF5722?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+    </a>
+    <a href="mailto:mdgafrujama@gmail.com?subject=Let's%20Connect">
+      <img src="https://img.shields.io/badge/📧_Get_In_Touch-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    <a href="https://github.com/md-Gafrujama">
+      <img src="https://img.shields.io/badge/💻_View_Repos-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    </a>
+  </p>
+  
+  <p><em>Let's connect and build something amazing together! 🚀</em></p>
   
 </div>
 
@@ -1135,9 +1209,25 @@ gantt
 
 <div align="center">
   
-  **Last Updated:** December 2024 | **Version:** 2.1 | **Status:** Actively Maintained
+  <h4>📊 Profile Information</h4>
   
-  <sub>Made with ❤️ and lots of ☕</sub>
+  **Last Updated:** December 2024 | **Version:** 2.2 | **Status:** Actively Maintained
+  
+  <br/>
+  
+  <sub>Made with ❤️ and lots of ☕ | Powered by GitHub & Vercel</sub>
+  
+  <br/><br/>
+  
+  <a href="https://my-personal-portfolio-eight-henna.vercel.app/">
+    <img src="https://img.shields.io/badge/🌐_Portfolio_Website-000000?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://github.com/md-Gafrujama">
+    <img src="https://img.shields.io/badge/GitHub-md--Gafrujama-100000?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://linkedin.com/in/md-gafrujama-ansari-a8b401287/">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
   
 </div>
 
