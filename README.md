@@ -30,10 +30,6 @@
   ### 📊 **Profile Statistics**
   
   <p align="center">
-    <a href="https://github.com/md-Gafrujama">
-      <img src="https://visitcount.itsvg.in/api?id=md-Gafrujama&label=Profile%20Views&color=0&icon=5&pretty=true" alt="Profile Views" />
-    </a>
-    &nbsp;&nbsp;
     <a href="https://github.com/md-Gafrujama?tab=followers">
       <img src="https://img.shields.io/github/followers/md-Gafrujama?label=Followers&style=for-the-badge&logo=github&logoColor=white&color=181717" alt="GitHub Followers" />
     </a>
@@ -43,7 +39,11 @@
     </a>
     &nbsp;&nbsp;
     <a href="https://github.com/md-Gafrujama">
-      <img src="https://komarev.com/ghpvc/?username=md-Gafrujama&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views Counter" />
+      <img src="https://img.shields.io/badge/Profile-md--Gafrujama-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
+    </a>
+    &nbsp;&nbsp;
+    <a href="https://github.com/md-Gafrujama">
+      <img src="https://img.shields.io/github/contributions/md-Gafrujama?label=Contributions&style=for-the-badge&logo=github&logoColor=white&color=00ff41" alt="GitHub Contributions" />
     </a>
   </p>
   
