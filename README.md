@@ -29,16 +29,25 @@
   
   ### 📊 **Profile Statistics**
   
-  <a href="https://github.com/md-Gafrujama">
-    <img src="https://visitcount.itsvg.in/api?id=md-Gafrujama&label=Profile%20Views&color=0&icon=5&pretty=true" alt="Profile Views" />
-  </a>
-  <a href="https://github.com/md-Gafrujama?tab=followers">
-    <img src="https://img.shields.io/github/followers/md-Gafrujama?label=Followers&style=social&logo=github" alt="GitHub Followers" />
-  </a>
-  <a href="https://github.com/md-Gafrujama?tab=stars">
-    <img src="https://img.shields.io/github/stars/md-Gafrujama?label=Profile%20Stars&style=social&logo=github" alt="Profile Stars" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=md-Gafrujama&color=blueviolet&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views Counter" />
+  <p align="center">
+    <a href="https://github.com/md-Gafrujama">
+      <img src="https://visitcount.itsvg.in/api?id=md-Gafrujama&label=Profile%20Views&color=0&icon=5&pretty=true" alt="Profile Views" />
+    </a>
+    &nbsp;&nbsp;
+    <a href="https://github.com/md-Gafrujama?tab=followers">
+      <img src="https://img.shields.io/github/followers/md-Gafrujama?label=Followers&style=for-the-badge&logo=github&logoColor=white&color=181717" alt="GitHub Followers" />
+    </a>
+    &nbsp;&nbsp;
+    <a href="https://github.com/md-Gafrujama?tab=stars">
+      <img src="https://img.shields.io/github/stars/md-Gafrujama?label=Profile%20Stars&style=for-the-badge&logo=github&logoColor=white&color=181717" alt="Profile Stars" />
+    </a>
+    &nbsp;&nbsp;
+    <a href="https://github.com/md-Gafrujama">
+      <img src="https://komarev.com/ghpvc/?username=md-Gafrujama&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views Counter" />
+    </a>
+  </p>
+  
+  <br/>
   
 </div>
 
