@@ -8,7 +8,6 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=🚀+Full-Stack+Developer+%26+Team+Lead;💻+MERN+Stack+Specialist;🤖+AI+%26+Machine+Learning+Enthusiast;📊+SEO+%26+Digital+Marketing+Expert;🌟+Open+Source+Contributor;⚡+Always+Learning+%26+Building+Magic;🎯+Problem+Solver+%26+Innovation+Driver;🌍+Building+Solutions+for+Tomorrow&font=Fira%20Code&center=true&width=900&height=65&color=00ff41&vCenter=true&size=24&pause=1000&multiline=true" alt="Typing Animation" />
 </div>
 
-
 <div align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" alt="Coding Animation" />
 </div>
@@ -16,19 +15,30 @@
 <br/>
 
 <div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=md-Gafrujama&label=Profile%20Views&color=0&icon=5&pretty=true" />
-  <img src="https://img.shields.io/github/followers/md-Gafrujama?label=Followers&style=social" />
-  <img src="https://img.shields.io/github/stars/md-Gafrujama?label=Profile%20Stars&style=social" />
-  <img src="https://komarev.com/ghpvc/?username=md-Gafrujama&color=blueviolet&style=flat-square&label=PROFILE+VIEWS" />
+  <a href="https://github.com/md-Gafrujama">
+    <img src="https://visitcount.itsvg.in/api?id=md-Gafrujama&label=Profile%20Views&color=0&icon=5&pretty=true" alt="Profile Views" />
+  </a>
+  <a href="https://github.com/md-Gafrujama?tab=followers">
+    <img src="https://img.shields.io/github/followers/md-Gafrujama?label=Followers&style=social&logo=github" alt="GitHub Followers" />
+  </a>
+  <a href="https://github.com/md-Gafrujama?tab=stars">
+    <img src="https://img.shields.io/github/stars/md-Gafrujama?label=Profile%20Stars&style=social&logo=github" alt="Profile Stars" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=md-Gafrujama&color=blueviolet&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views Counter" />
 </div>
 
 ---
 
 ## 🚀 About Me
 
-<img align="right" alt="Coding" width="450" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
+<div align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="450" alt="Coding Animation" />
+</div>
 
 ### 💫 **Current Status**
+
+<div align="left">
+
 - 🔭 **Role:** Full-Stack Developer & Team Lead at **QUORE B2B MARKETING**
 - 🌱 **Learning:** Advanced AI Integration, Microservices, Cloud Architecture, Web3
 - 👯 **Collaborating:** AI-powered applications & Open Source projects
@@ -39,7 +49,12 @@
 - 🎯 **Mission:** Creating innovative AI-powered solutions that make a real difference
 - 🏆 **Experience:** 2+ years in professional development
 
+</div>
+
 ### 🌈 **Fun Facts & Personality**
+
+<div align="left">
+
 - 🎮 Love coding games and interactive experiences in my free time
 - 🎵 Code better with Lo-fi music and synthwave beats
 - 🌙 Night owl developer (best code happens after midnight!)
@@ -49,15 +64,22 @@
 - 📚 Continuous learner with 10+ certifications and growing
 - 🌟 Believe in "Code with purpose, build with passion"
 
-### 📊 **Quick Stats**
-- 🔥 **400+** DSA problems solved across platforms
-- 🚀 **18+** open source contributions
-- 💼 **20+** successful projects delivered
-- ⭐ **98%+** client satisfaction rate
-- 📈 **65%** average performance improvement achieved
-- 🎯 **100%** project delivery success rate
+</div>
 
-<br clear="right"/>
+### 📊 **Quick Stats**
+
+<div align="center">
+
+| 🔥 Metric | 📊 Achievement |
+|:---------:|:-------------:|
+| **DSA Problems** | 400+ solved across platforms |
+| **Open Source** | 18+ contributions |
+| **Projects** | 20+ successful deliveries |
+| **Client Satisfaction** | 98%+ rating |
+| **Performance Boost** | 65% average improvement |
+| **Delivery Rate** | 100% on-time success |
+
+</div>
 
 ---
 
@@ -65,6 +87,8 @@
 
 <div align="center">
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="400" alt="Tech Animation" />
+  
+  <p><em>Mastering the tools that power modern web applications</em></p>
 </div>
 
 ### 🎨 Frontend Magic
@@ -130,6 +154,8 @@
 
 <div align="center">
   <img src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="500" alt="Professional Journey" />
+  
+  <p><em>Building expertise through real-world challenges</em></p>
 </div>
 
 <details>
@@ -161,7 +187,7 @@
 </details>
 
 <details>
-<summary><b>💻 Senior Full-Stack Developer (Feb 2025 - Aug 2025)</b></summary>
+<summary><b>💻 Senior Full-Stack Developer (Feb 2024 - Aug 2024)</b></summary>
 
 **🏢 Ace Credential's (Hybrid Work Model)**
 
@@ -211,12 +237,10 @@
 
 <div align="center">
   <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="500" alt="Projects Animation" />
-</div>
-
-<div align="center">
-
-### 🌟 **Featured Projects Showcase**
-
+  
+  ### 🌟 **Featured Projects Showcase**
+  
+  <p><em>Building innovative solutions that make a real impact</em></p>
 </div>
 
 <table>
@@ -366,6 +390,7 @@
 <div align="center">
   <h3>📖 Ultimate Developer Resource Collection</h3>
   <p><em>200+ Handpicked Resources for Modern Web Development</em></p>
+  <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="300" alt="Resources Animation" />
 </div>
 
 ### 🗺️ Learning Roadmaps & Guides
@@ -443,19 +468,21 @@
 
 <div align="center">
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400" alt="Analytics Animation" />
+  
+  <p><em>Tracking progress, one commit at a time</em></p>
 </div>
 
 ### 📈 Comprehensive GitHub Statistics
+
 <div align="center">
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=md-Gafrujama&show_icons=true&count_private=true&hide_border=true&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9&bg_color=0d1117&theme=dark&include_all_commits=true&rank_icon=github" alt="GitHub Stats" />
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-Gafrujama&layout=compact&hide_border=true&title_color=00ff41&text_color=c9d1d9&bg_color=0d1117&theme=dark&langs_count=10&hide=html,css" alt="Top Languages" />
 </div>
 
-
-
 ### 📊 Activity Graph
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=md-Gafrujama&theme=react-dark&bg_color=0D1117&hide_border=true&color=00ff41&line=00ff41&point=00ff41" alt="Activity Graph" width="100%" />
 
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=md-Gafrujama&theme=react-dark&bg_color=0D1117&hide_border=true&color=00ff41&line=00ff41&point=00ff41" alt="Activity Graph" width="100%" />
 </div>
 
 ### 🏆 Achievement Trophy Gallery
@@ -469,6 +496,7 @@
 </div>
 
 ### 💻 Weekly Development Breakdown & Code Statistics
+
 <div align="center">
 
 ```text
@@ -486,6 +514,7 @@ Docker/DevOps    ██████░░░░░░░░░░░░░░░
 </div>
 
 ### 📊 Repository Quality Metrics
+
 <div align="center">
 
 | 📈 Metric | 📊 Value | 🎯 Target | 📈 Trend |
@@ -503,6 +532,8 @@ Docker/DevOps    ██████░░░░░░░░░░░░░░░
 
 <div align="center">
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="400" alt="Education Animation" />
+  
+  <p><em>Continuous learning is the key to staying ahead</em></p>
 </div>
 
 <details>
@@ -607,6 +638,8 @@ Docker/DevOps    ██████░░░░░░░░░░░░░░░
 
 <div align="center">
   <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="400" alt="Skills Animation" />
+  
+  <p><em>Mastering technologies that drive innovation</em></p>
 </div>
 
 ### 💻 Technical Skills Proficiency Chart
@@ -747,6 +780,8 @@ gantt
 
 <div align="center">
   <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="450" alt="Achievement Animation" />
+  
+  <p><em>Celebrating milestones and continuous growth</em></p>
 </div>
 
 <div align="center">
@@ -840,6 +875,8 @@ gantt
 
 <div align="center">
   <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="400" alt="Learning Animation" />
+  
+  <p><em>Curated resources for continuous growth and development</em></p>
 </div>
 
 <details>
@@ -934,6 +971,8 @@ gantt
 <div align="center">
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400" alt="Music Animation" />
   
+  <p><em>Creating the perfect environment for peak productivity</em></p>
+  
   ### 🎧 **My Productivity Soundtrack**
   
   <table>
@@ -998,6 +1037,8 @@ gantt
 
 <div align="center">
   <img src="https://media.giphy.com/media/Q7LHmoFwVP6Yw1gyaN/giphy.gif" width="400" alt="Network Animation" />
+  
+  <p><em>Connecting with developers and innovators worldwide</em></p>
 </div>
 
 ### 🌐 **Professional Connect & Portfolio**
@@ -1040,34 +1081,48 @@ gantt
 ---
 ## 💭 Philosophy & Approach
 
-> *"Code is not just about solving problems—it's about creating solutions that make life better for everyone."*
+<div align="center">
+  
+  > *"Code is not just about solving problems—it's about creating solutions that make life better for everyone."*
+  
+</div>
 
 ### 🎯 **Core Principles**
+
+<div align="left">
+
 - **Clean Code:** Write code that tells a story
 - **User-Centric:** Always prioritize user experience
 - **Continuous Learning:** Technology never stops evolving, neither should we
 - **Team Collaboration:** Great software is built by great teams
 - **Open Source:** Knowledge shared is knowledge multiplied
 
+</div>
+
 ### 🌟 **What Drives Me**
+
+<div align="left">
+
 - Building applications that solve real-world problems
 - Mentoring upcoming developers and sharing knowledge
 - Contributing to the open-source community
 - Staying at the forefront of emerging technologies
 - Creating inclusive and accessible digital experiences
 
+</div>
+
 ---
 
 <div align="center">
   
-### 🎉 *"Thank you for taking the time to explore my profile!"*
+  ### 🎉 *"Thank you for taking the time to explore my profile!"*
   
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="100%" alt="Snake Game" />
-
-**Feel free to explore my repositories, and don't forget to ⭐ the ones you find interesting!**
-
-*Let's connect and build something amazing together! 🚀*
-
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="100%" alt="Snake Game" />
+  
+  **Feel free to explore my repositories, and don't forget to ⭐ the ones you find interesting!**
+  
+  *Let's connect and build something amazing together! 🚀*
+  
 </div>
 
 ---
@@ -1078,5 +1133,11 @@ gantt
 
 ---
 
-**Last Updated:** September 2025 | **Version:** 2.0 | **Status:** Actively Maintained
+<div align="center">
+  
+  **Last Updated:** December 2024 | **Version:** 2.1 | **Status:** Actively Maintained
+  
+  <sub>Made with ❤️ and lots of ☕</sub>
+  
+</div>
 
