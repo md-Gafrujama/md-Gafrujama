@@ -504,8 +504,7 @@ gantt
 
   <br/>
 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=md-Gafrujama&theme=radical" alt="Stats Card" width="48%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=md-Gafrujama&theme=radical&utcOffset=5.5" alt="Productive Time" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=md-Gafrujama&theme=radical" alt="Stats Card" width="60%" />
 
   <br/><br/>
 
