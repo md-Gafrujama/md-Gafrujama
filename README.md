@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f2027,50:203a43,100:2c5364&height=260&section=header&text=Md%20Gafrujama%20Ansari&fontSize=48&fontColor=00ff41&stroke=00ff41&strokeWidth=1&fontAlignY=38&desc=Full%20Stack%20Engineer%20%26%20Tech%20Lead%20%7C%20AI%20Research%20%26%20Integration&descSize=18&descAlignY=60&animation=twinkling" width="100%" alt="Header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=230&section=header&text=Md%20Gafrujama%20Ansari&fontSize=44&fontColor=00ff41&fontAlignY=38&desc=Full%20Stack%20Engineer%20and%20Tech%20Lead&descSize=20&descAlignY=60" width="100%" alt="Header" />
 
 <img src="https://readme-typing-svg.herokuapp.com/?lines=🚀+Full+Stack+Engineer+%26+Tech+Lead;🌐+Web+%26+Mobile+App+Development;🤖+AI+Research+%26+Integration;💻+MERN+%7C+Next.js+%7C+React+Native+%7C+Node.js+%7C+NestJS;📊+SEO+%26+Performance+Optimization;⚡+Always+Learning+%26+Building&font=Fira%20Code&center=true&width=900&height=60&color=00ff41&vCenter=true&size=22&pause=1000" alt="Typing Animation" />
 
@@ -167,27 +167,23 @@
   <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="320" alt="Skills" />
 </div>
 
-### 📈 Proficiency Chart
+### 📈 Proficiency Radar
 
-```mermaid
-xychart-beta
-    title "Technical Proficiency (%)"
-    x-axis [HTML/CSS, React, JS, Next.js, Node, Express, MongoDB, TS, Python]
-    y-axis "Level" 0 --> 100
-    bar [98, 96, 95, 94, 92, 90, 88, 88, 85]
-```
+<div align="center">
+  <img src="https://quickchart.io/chart?bkg=%230d1117&width=520&height=420&c=%7B%22type%22%3A%22radar%22%2C%22data%22%3A%7B%22labels%22%3A%5B%22Frontend%22%2C%22Backend%22%2C%22AI%2FML%22%2C%22SEO%22%2C%22DevOps%22%2C%22Leadership%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22Skills%22%2C%22data%22%3A%5B90%2C86%2C81%2C90%2C82%2C90%5D%2C%22backgroundColor%22%3A%22rgba%280%2C255%2C65%2C0.25%29%22%2C%22borderColor%22%3A%22%2300ff41%22%2C%22pointBackgroundColor%22%3A%22%2300ff41%22%7D%5D%7D%2C%22options%22%3A%7B%22legend%22%3A%7B%22display%22%3Afalse%7D%2C%22scale%22%3A%7B%22ticks%22%3A%7B%22display%22%3Afalse%2C%22min%22%3A0%2C%22max%22%3A100%2C%22stepSize%22%3A25%7D%2C%22gridLines%22%3A%7B%22color%22%3A%22%233a3f47%22%7D%2C%22angleLines%22%3A%7B%22color%22%3A%22%233a3f47%22%7D%2C%22pointLabels%22%3A%7B%22fontColor%22%3A%22%23c9d1d9%22%2C%22fontSize%22%3A15%7D%7D%7D%7D" width="480" alt="Skill Radar" />
+</div>
 
 ### 🥧 Where My Time Goes
 
 ```mermaid
 pie showData
     title Focus Areas
-    "Full-Stack Web (MERN / Next.js)" : 40
-    "Mobile (React Native)" : 10
-    "Backend (Node / NestJS)" : 15
-    "AI Research & Integration" : 20
+    "Full-Stack Web" : 40
+    "Mobile" : 10
+    "Backend" : 15
+    "AI Research and Integration" : 20
     "Team Leadership" : 10
-    "SEO & Performance" : 5
+    "SEO and Performance" : 5
 ```
 
 ### 💻 Skill Breakdown
@@ -311,7 +307,7 @@ gantt
     section AI/ML
     Machine Learning :active, ai1, 2023-01-01, 2026-12-01
     Deep Learning    :active, ai2, 2024-01-01, 2026-12-01
-    NLP & LLMs       :active, ai3, 2024-06-01, 2026-12-01
+    NLP and LLMs       :active, ai3, 2024-06-01, 2026-12-01
     section DevOps
     Docker          :done, devops1, 2023-01-01, 2024-01-01
     AWS             :active, devops2, 2024-01-01, 2026-12-01
@@ -498,7 +494,7 @@ gantt
 
   <br/>
 
-  <img src="https://github-readme-streak-stats.vercel.app/?user=md-Gafrujama&theme=radical&hide_border=true" alt="Streak" width="90%" />
+  <img src="https://streak-stats.demolab.com/?user=md-Gafrujama&theme=radical&hide_border=true" alt="Streak" width="90%" />
 
   <br/>
 
@@ -508,11 +504,12 @@ gantt
 
   <br/>
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=md-Gafrujama&theme=react-dark&bg_color=0D1117&hide_border=true&color=00ff41&line=00ff41&point=ffffff&area=true" alt="Activity Graph" width="100%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=md-Gafrujama&theme=radical" alt="Stats Card" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=md-Gafrujama&theme=radical&utcOffset=5.5" alt="Productive Time" width="48%" />
 
-  <br/>
+  <br/><br/>
 
-  <img src="https://github-profile-trophy.vercel.app/?username=md-Gafrujama&theme=darkhub&no-frame=true&margin-w=15&margin-h=15&column=4" alt="Trophies" />
+  <img src="https://ghchart.rshah.org/00ff41/md-Gafrujama" alt="Contribution Chart" width="95%" />
 </div>
 
 ---
