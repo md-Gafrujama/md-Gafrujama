@@ -83,12 +83,7 @@ Full Stack Engineer and Tech Lead with 2+ years of experience building scalable 
 
 ---
 
-## GitHub Stats
 
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=md-Gafrujama&show_icons=true&count_private=true&hide_border=true&theme=radical&include_all_commits=true" alt="Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-Gafrujama&layout=compact&hide_border=true&theme=radical&langs_count=8" alt="Top Languages" />
-</div>
 
 ---
 
